@@ -1,0 +1,1057 @@
+         City 1,             to,         City 2,             X1,             Y1,             X2,             Y2,       Distance,          Coins,            Bux
+          Dhaka,             to,        Kolkata,           2094,           1109,           2074,           1122,             95,             73,              1
+        Kolkata,             to,          Dhaka,           2074,           1122,           2094,           1109,             95,             73,              1
+      Sao Paulo,             to, Rio De Janeiro,           1062,           1480,           1094,           1466,            139,             84,              1
+ Rio De Janeiro,             to,      Sao Paulo,           1094,           1466,           1062,           1480,            139,             84,              1
+          Paris,             to,         London,           1436,            871,           1410,            845,            147,             86,              1
+         London,             to,          Paris,           1410,            845,           1436,            871,            147,             86,              1
+          Seoul,             to,       Shenyang,           2372,            989,           2345,            948,            196,             99,              1
+       Shenyang,             to,          Seoul,           2345,            948,           2372,            989,            196,             99,              1
+       Shenyang,             to,        Beijing,           2345,            948,           2295,            966,            212,            103,              1
+        Beijing,             to,       Shenyang,           2295,            966,           2345,            948,            212,            103,              1
+         Mumbai,             to,      Bangalore,           1970,           1147,           2001,           1195,            228,            107,              1
+      Bangalore,             to,         Mumbai,           2001,           1195,           1970,           1147,            228,            107,              1
+         Mumbai,             to,        Karachi,           1970,           1147,           1921,           1096,            282,            120,              1
+        Karachi,             to,         Mumbai,           1921,           1096,           1970,           1147,            282,            120,              1
+          Xi'an,             to,        Beijing,           2250,           1021,           2295,            966,            284,            121,              1
+        Beijing,             to,          Xi'an,           2295,            966,           2250,           1021,            284,            121,              1
+        Karachi,             to,          Delhi,           1921,           1096,           1993,           1068,            309,            127,              1
+          Delhi,             to,        Karachi,           1993,           1068,           1921,           1096,            309,            127,              1
+      Guangzhou,             to,       Shanghai,           2265,           1105,           2323,           1052,            314,            128,              1
+       Shanghai,             to,      Guangzhou,           2323,           1052,           2265,           1105,            314,            128,              1
+       Shanghai,             to,          Xi'an,           2323,           1052,           2250,           1021,            317,            129,              1
+          Xi'an,             to,       Shanghai,           2250,           1021,           2323,           1052,            317,            129,              1
+          Seoul,             to,       Shanghai,           2372,            989,           2323,           1052,            319,            129,              1
+       Shanghai,             to,          Seoul,           2323,           1052,           2372,            989,            319,            129,              1
+        Beijing,             to,          Seoul,           2295,            966,           2372,            989,            321,            130,              1
+          Seoul,             to,        Beijing,           2372,            989,           2295,            966,            321,            130,              1
+         Mumbai,             to,          Delhi,           1970,           1147,           1993,           1068,            329,            132,              1
+          Delhi,             to,         Mumbai,           1993,           1068,           1970,           1147,            329,            132,              1
+      Guangzhou,             to,          Xi'an,           2265,           1105,           2250,           1021,            341,            135,              1
+          Xi'an,             to,      Guangzhou,           2250,           1021,           2265,           1105,            341,            135,              1
+        Beijing,             to,       Shanghai,           2295,            966,           2323,           1052,            361,            140,              1
+       Shanghai,             to,        Beijing,           2323,           1052,           2295,            966,            361,            140,              1
+          Delhi,             to,        Kolkata,           1993,           1068,           2074,           1122,            389,            147,              1
+        Kolkata,             to,          Delhi,           2074,           1122,           1993,           1068,            389,            147,              1
+          Tokyo,             to,          Seoul,           2467,           1014,           2372,            989,            392,            148,              1
+          Seoul,             to,          Tokyo,           2372,            989,           2467,           1014,            392,            148,              1
+         Manila,             to,      Guangzhou,           2326,           1182,           2265,           1105,            392,            148,              1
+      Guangzhou,             to,         Manila,           2265,           1105,           2326,           1182,            392,            148,              1
+       Kinshasa,             to,          Lagos,           1526,           1312,           1452,           1241,            410,            152,              1
+          Lagos,             to,       Kinshasa,           1452,           1241,           1526,           1312,            410,            152,              1
+      Bangalore,             to,        Kolkata,           2001,           1195,           2074,           1122,            412,            153,              1
+        Kolkata,             to,      Bangalore,           2074,           1122,           2001,           1195,            412,            153,              1
+       Istanbul,             to,          Cairo,           1642,            958,           1646,           1063,            420,            155,              1
+          Cairo,             to,       Istanbul,           1646,           1063,           1642,            958,            420,            155,              1
+       Shanghai,             to,       Shenyang,           2323,           1052,           2345,            948,            425,            156,              1
+       Shenyang,             to,       Shanghai,           2345,            948,           2323,           1052,            425,            156,              1
+        Kolkata,             to,         Mumbai,           2074,           1122,           1970,           1147,            427,            156,              1
+         Mumbai,             to,        Kolkata,           1970,           1147,           2074,           1122,            427,            156,              1
+          Delhi,             to,          Dhaka,           1993,           1068,           2094,           1109,            436,            159,              1
+          Dhaka,             to,          Delhi,           2094,           1109,           1993,           1068,            436,            159,              1
+          Dhaka,             to,        Bangkok,           2094,           1109,           2170,           1188,            438,            159,              1
+        Bangkok,             to,          Dhaka,           2170,           1188,           2094,           1109,            438,            159,              1
+        Chicago,             to,       New York,            757,            931,            864,            956,            439,            159,              1
+       New York,             to,        Chicago,            864,            956,            757,            931,            439,            159,              1
+        Kolkata,             to,        Bangkok,           2074,           1122,           2170,           1188,            465,            166,              1
+        Bangkok,             to,        Kolkata,           2170,           1188,           2074,           1122,            465,            166,              1
+          Xi'an,             to,       Shenyang,           2250,           1021,           2345,            948,            479,            169,              1
+       Shenyang,             to,          Xi'an,           2345,            948,           2250,           1021,            479,            169,              1
+      Sao Paulo,             to,   Buenos Aires,           1062,           1480,            988,           1575,            481,            170,              1
+   Buenos Aires,             to,      Sao Paulo,            988,           1575,           1062,           1480,            481,            170,              1
+          Xi'an,             to,          Seoul,           2250,           1021,           2372,            989,            504,            176,              1
+      Guangzhou,             to,        Bangkok,           2265,           1105,           2170,           1188,            504,            176,              1
+        Bangkok,             to,      Guangzhou,           2170,           1188,           2265,           1105,            504,            176,              1
+          Seoul,             to,          Xi'an,           2372,            989,           2250,           1021,            504,            176,              1
+      Bangalore,             to,          Dhaka,           2001,           1195,           2094,           1109,            506,            176,              1
+          Dhaka,             to,      Bangalore,           2094,           1109,           2001,           1195,            506,            176,              1
+        Karachi,             to,      Bangalore,           1921,           1096,           2001,           1195,            509,            177,              1
+          Delhi,             to,      Bangalore,           1993,           1068,           2001,           1195,            509,            177,              1
+      Bangalore,             to,          Delhi,           2001,           1195,           1993,           1068,            509,            177,              1
+      Bangalore,             to,        Karachi,           2001,           1195,           1921,           1096,            509,            177,              1
+         Mumbai,             to,          Dhaka,           1970,           1147,           2094,           1109,            518,            179,              1
+          Dhaka,             to,         Mumbai,           2094,           1109,           1970,           1147,            518,            179,              1
+         Manila,             to,       Shanghai,           2326,           1182,           2323,           1052,            520,            180,              1
+       Shanghai,             to,         Manila,           2323,           1052,           2326,           1182,            520,            180,              1
+          Tokyo,             to,       Shenyang,           2467,           1014,           2345,            948,            554,            188,              1
+       Shenyang,             to,          Tokyo,           2345,            948,           2467,           1014,            554,            188,              1
+        Beijing,             to,      Guangzhou,           2295,            966,           2265,           1105,            568,            192,              1
+      Guangzhou,             to,        Beijing,           2265,           1105,           2295,            966,            568,            192,              1
+          Tokyo,             to,       Shanghai,           2467,           1014,           2323,           1052,            595,            198,              1
+       Shanghai,             to,          Tokyo,           2323,           1052,           2467,           1014,            595,            198,              1
+ Rio De Janeiro,             to,   Buenos Aires,           1094,           1466,            988,           1575,            608,            202,              1
+   Buenos Aires,             to, Rio De Janeiro,            988,           1575,           1094,           1466,            608,            202,              1
+        Karachi,             to,        Kolkata,           1921,           1096,           2074,           1122,            620,            205,              1
+        Kolkata,             to,        Karachi,           2074,           1122,           1921,           1096,            620,            205,              1
+         Manila,             to,        Bangkok,           2326,           1182,           2170,           1188,            624,            206,              1
+        Bangkok,             to,         Manila,           2170,           1188,           2326,           1182,            624,            206,              1
+          Seoul,             to,      Guangzhou,           2372,            989,           2265,           1105,            631,            207,              1
+      Guangzhou,             to,          Seoul,           2265,           1105,           2372,            989,            631,            207,              1
+        Karachi,             to,         Tehran,           1921,           1096,           1797,            997,            634,            208,              1
+         Tehran,             to,        Karachi,           1797,            997,           1921,           1096,            634,            208,              1
+         Tehran,             to,       Istanbul,           1797,            997,           1642,            958,            639,            209,              1
+       Istanbul,             to,         Tehran,           1642,            958,           1797,            997,            639,            209,              1
+        Jakarta,             to,        Bangkok,           2223,           1339,           2170,           1188,            640,            210,              1
+        Bangkok,             to,        Jakarta,           2170,           1188,           2223,           1339,            640,            210,              1
+         Tehran,             to,          Cairo,           1797,            997,           1646,           1063,            659,            214,              1
+          Cairo,             to,         Tehran,           1646,           1063,           1797,            997,            659,            214,              1
+        Bangkok,             to,      Bangalore,           2170,           1188,           2001,           1195,            676,            219,              1
+      Bangalore,             to,        Bangkok,           2001,           1195,           2170,           1188,            676,            219,              1
+      Guangzhou,             to,          Dhaka,           2265,           1105,           2094,           1109,            684,            221,              1
+          Dhaka,             to,      Guangzhou,           2094,           1109,           2265,           1105,            684,            221,              1
+          Dhaka,             to,        Karachi,           2094,           1109,           1921,           1096,            693,            223,              1
+        Karachi,             to,          Dhaka,           1921,           1096,           2094,           1109,            693,            223,              1
+      Guangzhou,             to,       Shenyang,           2265,           1105,           2345,            948,            704,            226,              1
+       Shenyang,             to,      Guangzhou,           2345,            948,           2265,           1105,            704,            226,              1
+         Manila,             to,          Xi'an,           2326,           1182,           2250,           1021,            712,            228,              1
+          Xi'an,             to,         Manila,           2250,           1021,           2326,           1182,            712,            228,              1
+        Beijing,             to,          Tokyo,           2295,            966,           2467,           1014,            714,            228,              1
+          Tokyo,             to,        Beijing,           2467,           1014,           2295,            966,            714,            228,              1
+          Dhaka,             to,          Xi'an,           2094,           1109,           2250,           1021,            716,            229,              1
+          Xi'an,             to,          Dhaka,           2250,           1021,           2094,           1109,            716,            229,              1
+          Xi'an,             to,        Bangkok,           2250,           1021,           2170,           1188,            740,            235,              1
+        Bangkok,             to,          Xi'an,           2170,           1188,           2250,           1021,            740,            235,              1
+        Jakarta,             to,         Manila,           2223,           1339,           2326,           1182,            751,            237,              1
+         Manila,             to,        Jakarta,           2326,           1182,           2223,           1339,            751,            237,              1
+      Guangzhou,             to,        Kolkata,           2265,           1105,           2074,           1122,            767,            241,              1
+        Kolkata,             to,      Guangzhou,           2074,           1122,           2265,           1105,            767,            241,              1
+         Moscow,             to,       Istanbul,           1719,            780,           1642,            958,            775,            243,              1
+       Istanbul,             to,         Moscow,           1642,            958,           1719,            780,            775,            243,              1
+         Manila,             to,          Seoul,           2326,           1182,           2372,            989,            793,            248,              1
+          Seoul,             to,         Manila,           2372,            989,           2326,           1182,            793,            248,              1
+    Mexico City,             to,    Los Angeles,            683,           1145,            526,           1023,            795,            248,              1
+    Los Angeles,             to,    Mexico City,            526,           1023,            683,           1145,            795,            248,              1
+        Kolkata,             to,          Xi'an,           2074,           1122,           2250,           1021,            811,            252,              1
+          Xi'an,             to,        Kolkata,           2250,           1021,           2074,           1122,            811,            252,              1
+         Mumbai,             to,        Bangkok,           1970,           1147,           2170,           1188,            816,            254,              1
+        Bangkok,             to,         Mumbai,           2170,           1188,           1970,           1147,            816,            254,              1
+       Shanghai,             to,        Bangkok,           2323,           1052,           2170,           1188,            818,            254,              1
+        Bangkok,             to,       Shanghai,           2170,           1188,           2323,           1052,            818,            254,              1
+          Delhi,             to,         Tehran,           1993,           1068,           1797,            997,            833,            258,              1
+         Tehran,             to,          Delhi,           1797,            997,           1993,           1068,            833,            258,              1
+          Delhi,             to,        Bangkok,           1993,           1068,           2170,           1188,            855,            263,              1
+        Bangkok,             to,          Delhi,           2170,           1188,           1993,           1068,            855,            263,              1
+          Tokyo,             to,          Xi'an,           2467,           1014,           2250,           1021,            868,            267,              1
+          Xi'an,             to,          Tokyo,           2250,           1021,           2467,           1014,            868,            267,              1
+        Beijing,             to,         Manila,           2295,            966,           2326,           1182,            872,            268,              1
+         Manila,             to,        Beijing,           2326,           1182,           2295,            966,            872,            268,              1
+         Manila,             to,          Tokyo,           2326,           1182,           2467,           1014,            877,            269,              1
+          Tokyo,             to,         Manila,           2467,           1014,           2326,           1182,            877,            269,              1
+      Guangzhou,             to,          Tokyo,           2265,           1105,           2467,           1014,            886,            271,              1
+          Tokyo,             to,      Guangzhou,           2467,           1014,           2265,           1105,            886,            271,              1
+       Istanbul,             to,          Paris,           1642,            958,           1436,            871,            894,            273,              1
+          Paris,             to,       Istanbul,           1436,            871,           1642,            958,            894,            273,              1
+        Chicago,             to,    Mexico City,            757,            931,            683,           1145,            905,            276,              1
+    Mexico City,             to,        Chicago,            683,           1145,            757,            931,            905,            276,              1
+         Mumbai,             to,         Tehran,           1970,           1147,           1797,            997,            915,            278,              1
+         Tehran,             to,         Mumbai,           1797,            997,           1970,           1147,            915,            278,              1
+         Tehran,             to,         Moscow,           1797,            997,           1719,            780,            922,            280,              2
+         Moscow,             to,         Tehran,           1719,            780,           1797,            997,            922,            280,              2
+       Shenyang,             to,         Manila,           2345,            948,           2326,           1182,            939,            284,              2
+         Manila,             to,       Shenyang,           2326,           1182,           2345,            948,            939,            284,              2
+          Dhaka,             to,       Shanghai,           2094,           1109,           2323,           1052,            943,            285,              2
+       Shanghai,             to,          Dhaka,           2323,           1052,           2094,           1109,            943,            285,              2
+      Guangzhou,             to,        Jakarta,           2265,           1105,           2223,           1339,            950,            287,              2
+        Jakarta,             to,      Guangzhou,           2223,           1339,           2265,           1105,            950,            287,              2
+          Dhaka,             to,         Manila,           2094,           1109,           2326,           1182,            972,            293,              2
+         Manila,             to,          Dhaka,           2326,           1182,           2094,           1109,            972,            293,              2
+          Dhaka,             to,        Beijing,           2094,           1109,           2295,            966,            986,            296,              2
+        Beijing,             to,          Dhaka,           2295,            966,           2094,           1109,            986,            296,              2
+        Chicago,             to,    Los Angeles,            757,            931,            526,           1023,            994,            298,              2
+    Los Angeles,             to,        Chicago,            526,           1023,            757,            931,            994,            298,              2
+        Beijing,             to,        Bangkok,           2295,            966,           2170,           1188,           1019,            304,              2
+        Bangkok,             to,        Beijing,           2170,           1188,           2295,            966,           1019,            304,              2
+           Lima,             to,      Sao Paulo,            837,           1357,           1062,           1480,           1025,            306,              2
+      Sao Paulo,             to,           Lima,           1062,           1480,            837,           1357,           1025,            306,              2
+       Istanbul,             to,         London,           1642,            958,           1410,            845,           1032,            308,              2
+         London,             to,       Istanbul,           1410,            845,           1642,            958,           1032,            308,              2
+        Kolkata,             to,       Shanghai,           2074,           1122,           2323,           1052,           1034,            308,              2
+       Shanghai,             to,        Kolkata,           2323,           1052,           2074,           1122,           1034,            308,              2
+        Kolkata,             to,         Manila,           2074,           1122,           2326,           1182,           1036,            309,              2
+         Manila,             to,        Kolkata,           2326,           1182,           2074,           1122,           1036,            309,              2
+          Delhi,             to,          Xi'an,           1993,           1068,           2250,           1021,           1045,            311,              2
+          Xi'an,             to,          Delhi,           2250,           1021,           1993,           1068,           1045,            311,              2
+    Mexico City,             to,       New York,            683,           1145,            864,            956,           1046,            311,              2
+       New York,             to,    Mexico City,            864,            956,            683,           1145,           1046,            311,              2
+    Mexico City,             to,           Lima,            683,           1145,            837,           1357,           1048,            312,              2
+           Lima,             to,    Mexico City,            837,           1357,            683,           1145,           1048,            312,              2
+        Kolkata,             to,        Jakarta,           2074,           1122,           2223,           1339,           1052,            313,              2
+        Jakarta,             to,        Kolkata,           2223,           1339,           2074,           1122,           1052,            313,              2
+          Lagos,             to,          Cairo,           1452,           1241,           1646,           1063,           1053,            313,              2
+          Cairo,             to,          Lagos,           1646,           1063,           1452,           1241,           1053,            313,              2
+        Jakarta,             to,          Dhaka,           2223,           1339,           2094,           1109,           1054,            313,              2
+          Dhaka,             to,        Jakarta,           2094,           1109,           2223,           1339,           1054,            313,              2
+        Jakarta,             to,      Bangalore,           2223,           1339,           2001,           1195,           1058,            314,              2
+      Bangalore,             to,        Jakarta,           2001,           1195,           2223,           1339,           1058,            314,              2
+   Buenos Aires,             to,           Lima,            988,           1575,            837,           1357,           1060,            315,              2
+           Lima,             to,   Buenos Aires,            837,           1357,            988,           1575,           1060,            315,              2
+        Karachi,             to,        Bangkok,           1921,           1096,           2170,           1188,           1061,            315,              2
+        Bangkok,             to,        Karachi,           2170,           1188,           1921,           1096,           1061,            315,              2
+        Kolkata,             to,        Beijing,           2074,           1122,           2295,            966,           1082,            320,              2
+        Beijing,             to,        Kolkata,           2295,            966,           2074,           1122,           1082,            320,              2
+          Delhi,             to,      Guangzhou,           1993,           1068,           2265,           1105,           1098,            324,              2
+      Guangzhou,             to,          Delhi,           2265,           1105,           1993,           1068,           1098,            324,              2
+       Kinshasa,             to,          Cairo,           1526,           1312,           1646,           1063,           1105,            326,              2
+          Cairo,             to,       Kinshasa,           1646,           1063,           1526,           1312,           1105,            326,              2
+          Cairo,             to,        Karachi,           1646,           1063,           1921,           1096,           1107,            326,              2
+        Karachi,             to,          Cairo,           1921,           1096,           1646,           1063,           1107,            326,              2
+      Guangzhou,             to,      Bangalore,           2265,           1105,           2001,           1195,           1115,            328,              2
+      Bangalore,             to,      Guangzhou,           2001,           1195,           2265,           1105,           1115,            328,              2
+           Lima,             to, Rio De Janeiro,            837,           1357,           1094,           1466,           1116,            329,              2
+ Rio De Janeiro,             to,           Lima,           1094,           1466,            837,           1357,           1116,            329,              2
+        Bangkok,             to,          Seoul,           2170,           1188,           2372,            989,           1134,            333,              2
+          Seoul,             to,        Bangkok,           2372,            989,           2170,           1188,           1134,            333,              2
+      Bangalore,             to,         Tehran,           2001,           1195,           1797,            997,           1137,            334,              2
+         Tehran,             to,      Bangalore,           1797,            997,           2001,           1195,           1137,            334,              2
+          Paris,             to,          Cairo,           1436,            871,           1646,           1063,           1138,            334,              2
+          Cairo,             to,          Paris,           1646,           1063,           1436,            871,           1138,            334,              2
+         Moscow,             to,          Cairo,           1719,            780,           1646,           1063,           1169,            342,              2
+          Cairo,             to,         Moscow,           1646,           1063,           1719,            780,           1169,            342,              2
+       Shenyang,             to,        Bangkok,           2345,            948,           2170,           1188,           1188,            347,              2
+        Bangkok,             to,       Shenyang,           2170,           1188,           2345,            948,           1188,            347,              2
+          Paris,             to,         Moscow,           1436,            871,           1719,            780,           1189,            347,              2
+         Moscow,             to,          Paris,           1719,            780,           1436,            871,           1189,            347,              2
+         Mumbai,             to,      Guangzhou,           1970,           1147,           2265,           1105,           1191,            347,              2
+      Guangzhou,             to,         Mumbai,           2265,           1105,           1970,           1147,           1191,            347,              2
+          Dhaka,             to,       Shenyang,           2094,           1109,           2345,            948,           1192,            348,              2
+       Shenyang,             to,          Dhaka,           2345,            948,           2094,           1109,           1192,            348,              2
+          Seoul,             to,          Dhaka,           2372,            989,           2094,           1109,           1211,            352,              2
+          Dhaka,             to,          Seoul,           2094,           1109,           2372,            989,           1211,            352,              2
+       Shanghai,             to,        Jakarta,           2323,           1052,           2223,           1339,           1215,            353,              2
+        Kolkata,             to,         Tehran,           2074,           1122,           1797,            997,           1215,            353,              2
+          Xi'an,             to,      Bangalore,           2250,           1021,           2001,           1195,           1215,            353,              2
+        Jakarta,             to,       Shanghai,           2223,           1339,           2323,           1052,           1215,            353,              2
+         Tehran,             to,        Kolkata,           1797,            997,           2074,           1122,           1215,            353,              2
+      Bangalore,             to,          Xi'an,           2001,           1195,           2250,           1021,           1215,            353,              2
+         Mumbai,             to,          Xi'an,           1970,           1147,           2250,           1021,           1228,            357,              2
+          Xi'an,             to,         Mumbai,           2250,           1021,           1970,           1147,           1228,            357,              2
+        Karachi,             to,       Istanbul,           1921,           1096,           1642,            958,           1245,            361,              2
+       Istanbul,             to,        Karachi,           1642,            958,           1921,           1096,           1245,            361,              2
+         Moscow,             to,         London,           1719,            780,           1410,            845,           1263,            365,              2
+         London,             to,         Moscow,           1410,            845,           1719,            780,           1263,            365,              2
+         Tehran,             to,          Dhaka,           1797,            997,           2094,           1109,           1269,            367,              2
+          Dhaka,             to,         Tehran,           2094,           1109,           1797,            997,           1269,            367,              2
+         Mumbai,             to,        Jakarta,           1970,           1147,           2223,           1339,           1270,            367,              2
+        Jakarta,             to,         Mumbai,           2223,           1339,           1970,           1147,           1270,            367,              2
+          Delhi,             to,        Beijing,           1993,           1068,           2295,            966,           1275,            368,              2
+        Beijing,             to,          Delhi,           2295,            966,           1993,           1068,           1275,            368,              2
+        Jakarta,             to,          Xi'an,           2223,           1339,           2250,           1021,           1276,            369,              2
+          Xi'an,             to,        Jakarta,           2250,           1021,           2223,           1339,           1276,            369,              2
+         London,             to,          Cairo,           1410,            845,           1646,           1063,           1285,            371,              2
+          Cairo,             to,         London,           1646,           1063,           1410,            845,           1285,            371,              2
+        Kolkata,             to,       Shenyang,           2074,           1122,           2345,            948,           1288,            372,              2
+       Shenyang,             to,        Kolkata,           2345,            948,           2074,           1122,           1288,            372,              2
+         Manila,             to,      Bangalore,           2326,           1182,           2001,           1195,           1301,            375,              2
+      Bangalore,             to,         Manila,           2001,           1195,           2326,           1182,           1301,            375,              2
+        Kolkata,             to,          Seoul,           2074,           1122,           2372,            989,           1305,            376,              2
+          Seoul,             to,        Kolkata,           2372,            989,           2074,           1122,           1305,            376,              2
+       Shanghai,             to,          Delhi,           2323,           1052,           1993,           1068,           1321,            380,              2
+          Delhi,             to,       Shanghai,           1993,           1068,           2323,           1052,           1321,            380,              2
+          Cairo,             to,         Mumbai,           1646,           1063,           1970,           1147,           1338,            384,              2
+         Mumbai,             to,          Cairo,           1970,           1147,           1646,           1063,           1338,            384,              2
+          Xi'an,             to,        Karachi,           2250,           1021,           1921,           1096,           1349,            387,              2
+        Karachi,             to,          Xi'an,           1921,           1096,           2250,           1021,           1349,            387,              2
+          Lagos,             to,       Istanbul,           1452,           1241,           1642,            958,           1363,            390,              2
+       Istanbul,             to,          Lagos,           1642,            958,           1452,           1241,           1363,            390,              2
+      Guangzhou,             to,        Karachi,           2265,           1105,           1921,           1096,           1376,            394,              2
+        Bangkok,             to,          Tokyo,           2170,           1188,           2467,           1014,           1376,            394,              2
+        Karachi,             to,      Guangzhou,           1921,           1096,           2265,           1105,           1376,            394,              2
+          Tokyo,             to,        Bangkok,           2467,           1014,           2170,           1188,           1376,            394,              2
+    Los Angeles,             to,       New York,            526,           1023,            864,            956,           1378,            394,              2
+       New York,             to,    Los Angeles,            864,            956,            526,           1023,           1378,            394,              2
+          Cairo,             to,          Delhi,           1646,           1063,           1993,           1068,           1388,            397,              2
+          Delhi,             to,          Cairo,           1993,           1068,           1646,           1063,           1388,            397,              2
+         Manila,             to,          Delhi,           2326,           1182,           1993,           1068,           1407,            401,              2
+          Delhi,             to,         Manila,           1993,           1068,           2326,           1182,           1407,            401,              2
+       Shanghai,             to,      Bangalore,           2323,           1052,           2001,           1195,           1409,            402,              2
+      Bangalore,             to,       Shanghai,           2001,           1195,           2323,           1052,           1409,            402,              2
+        Jakarta,             to,          Delhi,           2223,           1339,           1993,           1068,           1421,            405,              2
+          Delhi,             to,        Jakarta,           1993,           1068,           2223,           1339,           1421,            405,              2
+         Manila,             to,         Mumbai,           2326,           1182,           1970,           1147,           1430,            407,              2
+         Mumbai,             to,         Manila,           1970,           1147,           2326,           1182,           1430,            407,              2
+       Shanghai,             to,         Mumbai,           2323,           1052,           1970,           1147,           1462,            415,              2
+         Mumbai,             to,       Shanghai,           1970,           1147,           2323,           1052,           1462,            415,              2
+          Delhi,             to,       Istanbul,           1993,           1068,           1642,            958,           1471,            417,              2
+       Istanbul,             to,          Delhi,           1642,            958,           1993,           1068,           1471,            417,              2
+          Paris,             to,          Lagos,           1436,            871,           1452,           1241,           1481,            420,              2
+          Lagos,             to,          Paris,           1452,           1241,           1436,            871,           1481,            420,              2
+       Shenyang,             to,          Delhi,           2345,            948,           1993,           1068,           1487,            421,              2
+          Delhi,             to,       Shenyang,           1993,           1068,           2345,            948,           1487,            421,              2
+         Mumbai,             to,        Beijing,           1970,           1147,           2295,            966,           1488,            422,              2
+        Beijing,             to,         Mumbai,           2295,            966,           1970,           1147,           1488,            422,              2
+       Istanbul,             to,       Kinshasa,           1642,            958,           1526,           1312,           1490,            422,              2
+      Bangalore,             to,        Beijing,           2001,           1195,           2295,            966,           1490,            422,              2
+       Kinshasa,             to,       Istanbul,           1526,           1312,           1642,            958,           1490,            422,              2
+        Beijing,             to,      Bangalore,           2295,            966,           2001,           1195,           1490,            422,              2
+         Moscow,             to,        Karachi,           1719,            780,           1921,           1096,           1500,            425,              2
+        Karachi,             to,         Moscow,           1921,           1096,           1719,            780,           1500,            425,              2
+      Bangalore,             to,          Cairo,           2001,           1195,           1646,           1063,           1514,            428,              2
+       Istanbul,             to,         Mumbai,           1642,            958,           1970,           1147,           1514,            428,              2
+          Cairo,             to,      Bangalore,           1646,           1063,           2001,           1195,           1514,            428,              2
+         Mumbai,             to,       Istanbul,           1970,           1147,           1642,            958,           1514,            428,              2
+        Beijing,             to,        Jakarta,           2295,            966,           2223,           1339,           1519,            429,              2
+        Jakarta,             to,        Beijing,           2223,           1339,           2295,            966,           1519,            429,              2
+        Jakarta,             to,          Seoul,           2223,           1339,           2372,            989,           1521,            430,              2
+          Seoul,             to,        Jakarta,           2372,            989,           2223,           1339,           1521,            430,              2
+          Paris,             to,         Tehran,           1436,            871,           1797,            997,           1529,            432,              2
+         Tehran,             to,          Paris,           1797,            997,           1436,            871,           1529,            432,              2
+          Tokyo,             to,          Dhaka,           2467,           1014,           2094,           1109,           1539,            434,              2
+          Dhaka,             to,          Tokyo,           2094,           1109,           2467,           1014,           1539,            434,              2
+          Delhi,             to,          Seoul,           1993,           1068,           2372,            989,           1548,            437,              2
+          Seoul,             to,          Delhi,           2372,            989,           1993,           1068,           1548,            437,              2
+        Karachi,             to,        Jakarta,           1921,           1096,           2223,           1339,           1550,            437,              2
+        Jakarta,             to,        Karachi,           2223,           1339,           1921,           1096,           1550,            437,              2
+        Jakarta,             to,         Sydney,           2223,           1339,           2547,           1565,           1580,            445,              2
+         Sydney,             to,        Jakarta,           2547,           1565,           2223,           1339,           1580,            445,              2
+        Karachi,             to,        Beijing,           1921,           1096,           2295,            966,           1583,            445,              2
+        Beijing,             to,        Karachi,           2295,            966,           1921,           1096,           1583,            445,              2
+          Delhi,             to,         Moscow,           1993,           1068,           1719,            780,           1590,            447,              2
+         Moscow,             to,          Delhi,           1719,            780,           1993,           1068,           1590,            447,              2
+         London,             to,          Lagos,           1410,            845,           1452,           1241,           1592,            448,              2
+          Lagos,             to,         London,           1452,           1241,           1410,            845,           1592,            448,              2
+       New York,             to,           Lima,            864,            956,            837,           1357,           1607,            451,              2
+           Lima,             to,       New York,            837,           1357,            864,            956,           1607,            451,              2
+       Shanghai,             to,        Karachi,           2323,           1052,           1921,           1096,           1617,            454,              2
+        Karachi,             to,       Shanghai,           1921,           1096,           2323,           1052,           1617,            454,              2
+        Jakarta,             to,          Tokyo,           2223,           1339,           2467,           1014,           1625,            456,              2
+          Tokyo,             to,        Jakarta,           2467,           1014,           2223,           1339,           1625,            456,              2
+          Tokyo,             to,        Kolkata,           2467,           1014,           2074,           1122,           1630,            457,              2
+        Kolkata,             to,          Tokyo,           2074,           1122,           2467,           1014,           1630,            457,              2
+       Shenyang,             to,        Jakarta,           2345,            948,           2223,           1339,           1638,            459,              2
+        Jakarta,             to,       Shenyang,           2223,           1339,           2345,            948,           1638,            459,              2
+         Manila,             to,        Karachi,           2326,           1182,           1921,           1096,           1656,            464,              2
+        Karachi,             to,         Manila,           1921,           1096,           2326,           1182,           1656,            464,              2
+       Kinshasa,             to,         Tehran,           1526,           1312,           1797,            997,           1662,            465,              2
+         Tehran,             to,       Kinshasa,           1797,            997,           1526,           1312,           1662,            465,              2
+         Tehran,             to,         London,           1797,            997,           1410,            845,           1663,            465,              2
+         London,             to,         Tehran,           1410,            845,           1797,            997,           1663,            465,              2
+         Tehran,             to,        Bangkok,           1797,            997,           2170,           1188,           1676,            469,              2
+        Bangkok,             to,         Tehran,           2170,           1188,           1797,            997,           1676,            469,              2
+          Lagos,             to,         Tehran,           1452,           1241,           1797,            997,           1690,            472,              2
+         Tehran,             to,          Lagos,           1797,            997,           1452,           1241,           1690,            472,              2
+          Lagos,             to, Rio De Janeiro,           1452,           1241,           1094,           1466,           1691,            472,              2
+ Rio De Janeiro,             to,          Lagos,           1094,           1466,           1452,           1241,           1691,            472,              2
+      Bangalore,             to,       Shenyang,           2001,           1195,           2345,            948,           1693,            473,              2
+       Shenyang,             to,      Bangalore,           2345,            948,           2001,           1195,           1693,            473,              2
+          Seoul,             to,      Bangalore,           2372,            989,           2001,           1195,           1697,            474,              2
+      Bangalore,             to,          Seoul,           2001,           1195,           2372,            989,           1697,            474,              2
+       Shenyang,             to,         Mumbai,           2345,            948,           1970,           1147,           1698,            474,              2
+         Mumbai,             to,       Shenyang,           1970,           1147,           2345,            948,           1698,            474,              2
+      Bangalore,             to,       Istanbul,           2001,           1195,           1642,            958,           1720,            480,              2
+       Istanbul,             to,      Bangalore,           1642,            958,           2001,           1195,           1720,            480,              2
+          Seoul,             to,         Mumbai,           2372,            989,           1970,           1147,           1727,            481,              2
+         Mumbai,             to,          Seoul,           1970,           1147,           2372,            989,           1727,            481,              2
+        Kolkata,             to,          Cairo,           2074,           1122,           1646,           1063,           1728,            482,              2
+          Cairo,             to,        Kolkata,           1646,           1063,           2074,           1122,           1728,            482,              2
+           Lima,             to,        Chicago,            837,           1357,            757,            931,           1733,            483,              2
+        Chicago,             to,           Lima,            757,            931,            837,           1357,           1733,            483,              2
+         Manila,             to,         Sydney,           2326,           1182,           2547,           1565,           1768,            492,              2
+         Sydney,             to,         Manila,           2547,           1565,           2326,           1182,           1768,            492,              2
+         Mumbai,             to,         Moscow,           1970,           1147,           1719,            780,           1778,            494,              2
+         Moscow,             to,         Mumbai,           1719,            780,           1970,           1147,           1778,            494,              2
+       Shenyang,             to,        Karachi,           2345,            948,           1921,           1096,           1796,            499,              2
+        Karachi,             to,       Shenyang,           1921,           1096,           2345,            948,           1796,            499,              2
+       Kinshasa,             to,          Paris,           1526,           1312,           1436,            871,           1800,            500,              2
+       Kinshasa,             to,        Karachi,           1526,           1312,           1921,           1096,           1800,            500,              2
+        Karachi,             to,       Kinshasa,           1921,           1096,           1526,           1312,           1800,            500,              2
+          Paris,             to,       Kinshasa,           1436,            871,           1526,           1312,           1800,            500,              2
+          Cairo,             to,          Dhaka,           1646,           1063,           2094,           1109,           1801,            500,              2
+          Dhaka,             to,          Cairo,           2094,           1109,           1646,           1063,           1801,            500,              2
+         Tehran,             to,          Xi'an,           1797,            997,           2250,           1021,           1814,            503,              2
+          Xi'an,             to,         Tehran,           2250,           1021,           1797,            997,           1814,            503,              2
+    Los Angeles,             to,           Lima,            526,           1023,            837,           1357,           1825,            506,              2
+           Lima,             to,    Los Angeles,            837,           1357,            526,           1023,           1825,            506,              2
+      Sao Paulo,             to,          Lagos,           1062,           1480,           1452,           1241,           1829,            507,              2
+          Lagos,             to,      Sao Paulo,           1452,           1241,           1062,           1480,           1829,            507,              2
+       Kinshasa,             to, Rio De Janeiro,           1526,           1312,           1094,           1466,           1834,            508,              2
+ Rio De Janeiro,             to,       Kinshasa,           1094,           1466,           1526,           1312,           1834,            508,              2
+       Istanbul,             to,        Kolkata,           1642,            958,           2074,           1122,           1848,            512,              3
+        Kolkata,             to,       Istanbul,           2074,           1122,           1642,            958,           1848,            512,              3
+        Karachi,             to,          Seoul,           1921,           1096,           2372,            989,           1854,            513,              3
+          Seoul,             to,        Karachi,           2372,            989,           1921,           1096,           1854,            513,              3
+         Mumbai,             to,       Kinshasa,           1970,           1147,           1526,           1312,           1894,            523,              3
+       Kinshasa,             to,         Mumbai,           1526,           1312,           1970,           1147,           1894,            523,              3
+       Istanbul,             to,          Dhaka,           1642,            958,           2094,           1109,           1906,            526,              3
+          Dhaka,             to,       Istanbul,           2094,           1109,           1642,            958,           1906,            526,              3
+          Tokyo,             to,          Delhi,           2467,           1014,           1993,           1068,           1908,            527,              3
+          Delhi,             to,          Tokyo,           1993,           1068,           2467,           1014,           1908,            527,              3
+         Tehran,             to,      Guangzhou,           1797,            997,           2265,           1105,           1921,            530,              3
+      Guangzhou,             to,         Tehran,           2265,           1105,           1797,            997,           1921,            530,              3
+         London,             to,       Kinshasa,           1410,            845,           1526,           1312,           1924,            531,              3
+       Kinshasa,             to,         London,           1526,           1312,           1410,            845,           1924,            531,              3
+      Bangalore,             to,       Kinshasa,           2001,           1195,           1526,           1312,           1956,            539,              3
+       Kinshasa,             to,      Bangalore,           1526,           1312,           2001,           1195,           1956,            539,              3
+          Lagos,             to,        Karachi,           1452,           1241,           1921,           1096,           1963,            540,              3
+        Karachi,             to,          Lagos,           1921,           1096,           1452,           1241,           1963,            540,              3
+         Moscow,             to,        Kolkata,           1719,            780,           2074,           1122,           1971,            542,              3
+        Kolkata,             to,         Moscow,           2074,           1122,           1719,            780,           1971,            542,              3
+       Kinshasa,             to,      Sao Paulo,           1526,           1312,           1062,           1480,           1973,            543,              3
+      Sao Paulo,             to,       Kinshasa,           1062,           1480,           1526,           1312,           1973,            543,              3
+          Dhaka,             to,         Moscow,           2094,           1109,           1719,            780,           1995,            548,              3
+        Beijing,             to,         Tehran,           2295,            966,           1797,            997,           1995,            548,              3
+         Moscow,             to,          Dhaka,           1719,            780,           2094,           1109,           1995,            548,              3
+         Tehran,             to,        Beijing,           1797,            997,           2295,            966,           1995,            548,              3
+          Tokyo,             to,      Bangalore,           2467,           1014,           2001,           1195,           1999,            549,              3
+      Bangalore,             to,          Tokyo,           2001,           1195,           2467,           1014,           1999,            549,              3
+         Moscow,             to,      Bangalore,           1719,            780,           2001,           1195,           2006,            551,              3
+      Bangalore,             to,         Moscow,           2001,           1195,           1719,            780,           2006,            551,              3
+    Mexico City,             to,      Sao Paulo,            683,           1145,           1062,           1480,           2023,            555,              3
+      Sao Paulo,             to,    Mexico City,           1062,           1480,            683,           1145,           2023,            555,              3
+          Tokyo,             to,         Mumbai,           2467,           1014,           1970,           1147,           2057,            564,              3
+         Mumbai,             to,          Tokyo,           1970,           1147,           2467,           1014,           2057,            564,              3
+    Mexico City,             to, Rio De Janeiro,            683,           1145,           1094,           1466,           2085,            571,              3
+ Rio De Janeiro,             to,    Mexico City,           1094,           1466,            683,           1145,           2085,            571,              3
+          Lagos,             to,         Mumbai,           1452,           1241,           1970,           1147,           2105,            576,              3
+         Mumbai,             to,          Lagos,           1970,           1147,           1452,           1241,           2105,            576,              3
+          Delhi,             to,       Kinshasa,           1993,           1068,           1526,           1312,           2107,            576,              3
+       Kinshasa,             to,          Delhi,           1526,           1312,           1993,           1068,           2107,            576,              3
+   Buenos Aires,             to,    Mexico City,            988,           1575,            683,           1145,           2108,            577,              3
+    Mexico City,             to,   Buenos Aires,            683,           1145,            988,           1575,           2108,            577,              3
+         Tehran,             to,       Shanghai,           1797,            997,           2323,           1052,           2115,            578,              3
+       Shanghai,             to,         Tehran,           2323,           1052,           1797,            997,           2115,            578,              3
+          Lagos,             to,         Moscow,           1452,           1241,           1719,            780,           2130,            582,              3
+         Moscow,             to,          Lagos,           1719,            780,           1452,           1241,           2130,            582,              3
+         Sydney,             to,        Bangkok,           2547,           1565,           2170,           1188,           2132,            583,              3
+        Bangkok,             to,         Sydney,           2170,           1188,           2547,           1565,           2132,            583,              3
+        Karachi,             to,          Paris,           1921,           1096,           1436,            871,           2138,            584,              3
+          Paris,             to,        Karachi,           1436,            871,           1921,           1096,           2138,            584,              3
+        Bangkok,             to,          Cairo,           2170,           1188,           1646,           1063,           2154,            588,              3
+          Cairo,             to,        Bangkok,           1646,           1063,           2170,           1188,           2154,            588,              3
+         Sydney,             to,      Guangzhou,           2547,           1565,           2265,           1105,           2158,            589,              3
+      Guangzhou,             to,         Sydney,           2265,           1105,           2547,           1565,           2158,            589,              3
+         Tehran,             to,        Jakarta,           1797,            997,           2223,           1339,           2185,            596,              3
+        Jakarta,             to,         Tehran,           2223,           1339,           1797,            997,           2185,            596,              3
+       Shenyang,             to,         Tehran,           2345,            948,           1797,            997,           2200,            600,              3
+         Tehran,             to,       Shenyang,           1797,            997,           2345,            948,           2200,            600,              3
+      Bangalore,             to,          Lagos,           2001,           1195,           1452,           1241,           2203,            600,              3
+          Lagos,             to,      Bangalore,           1452,           1241,           2001,           1195,           2203,            600,              3
+        Karachi,             to,          Tokyo,           1921,           1096,           2467,           1014,           2208,            602,              3
+          Tokyo,             to,        Karachi,           2467,           1014,           1921,           1096,           2208,            602,              3
+          Tokyo,             to,         Sydney,           2467,           1014,           2547,           1565,           2227,            606,              3
+         Sydney,             to,          Tokyo,           2547,           1565,           2467,           1014,           2227,            606,              3
+       New York,             to,         London,            864,            956,           1410,            845,           2228,            607,              3
+         London,             to,       New York,           1410,            845,            864,            956,           2228,            607,              3
+ Rio De Janeiro,             to,       New York,           1094,           1466,            864,            956,           2237,            609,              3
+       New York,             to, Rio De Janeiro,            864,            956,           1094,           1466,           2237,            609,              3
+         Sydney,             to,       Shanghai,           2547,           1565,           2323,           1052,           2239,            609,              3
+       Shanghai,             to,         Sydney,           2323,           1052,           2547,           1565,           2239,            609,              3
+      Sao Paulo,             to,       New York,           1062,           1480,            864,            956,           2240,            610,              3
+       New York,             to,      Sao Paulo,            864,            956,           1062,           1480,           2240,            610,              3
+         Tehran,             to,         Manila,           1797,            997,           2326,           1182,           2241,            610,              3
+         Manila,             to,         Tehran,           2326,           1182,           1797,            997,           2241,            610,              3
+       Kinshasa,             to,         Moscow,           1526,           1312,           1719,            780,           2263,            615,              3
+         Moscow,             to,       Kinshasa,           1719,            780,           1526,           1312,           2263,            615,              3
+          Delhi,             to,          Lagos,           1993,           1068,           1452,           1241,           2271,            617,              3
+          Lagos,             to,          Delhi,           1452,           1241,           1993,           1068,           2271,            617,              3
+        Karachi,             to,         London,           1921,           1096,           1410,            845,           2277,            619,              3
+         London,             to,        Karachi,           1410,            845,           1921,           1096,           2277,            619,              3
+          Lagos,             to,   Buenos Aires,           1452,           1241,            988,           1575,           2286,            621,              3
+   Buenos Aires,             to,          Lagos,            988,           1575,           1452,           1241,           2286,            621,              3
+         Tehran,             to,          Seoul,           1797,            997,           2372,            989,           2300,            625,              3
+          Seoul,             to,         Tehran,           2372,            989,           1797,            997,           2300,            625,              3
+       Istanbul,             to,        Bangkok,           1642,            958,           2170,           1188,           2303,            625,              3
+        Bangkok,             to,       Istanbul,           2170,           1188,           1642,            958,           2303,            625,              3
+       New York,             to,          Paris,            864,            956,           1436,            871,           2313,            628,              3
+          Paris,             to,       New York,           1436,            871,            864,            956,           2313,            628,              3
+        Kolkata,             to,       Kinshasa,           2074,           1122,           1526,           1312,           2320,            630,              3
+       Kinshasa,             to,        Kolkata,           1526,           1312,           2074,           1122,           2320,            630,              3
+         Moscow,             to,          Xi'an,           1719,            780,           2250,           1021,           2332,            633,              3
+          Xi'an,             to,         Moscow,           2250,           1021,           1719,            780,           2332,            633,              3
+          Delhi,             to,          Paris,           1993,           1068,           1436,            871,           2363,            640,              3
+          Paris,             to,          Delhi,           1436,            871,           1993,           1068,           2363,            640,              3
+       Kinshasa,             to,   Buenos Aires,           1526,           1312,            988,           1575,           2395,            648,              3
+   Buenos Aires,             to,       Kinshasa,            988,           1575,           1526,           1312,           2395,            648,              3
+         Mumbai,             to,          Paris,           1970,           1147,           1436,            871,           2404,            651,              3
+          Paris,             to,         Mumbai,           1436,            871,           1970,           1147,           2404,            651,              3
+          Seoul,             to,         Sydney,           2372,            989,           2547,           1565,           2407,            651,              3
+         Sydney,             to,          Seoul,           2547,           1565,           2372,            989,           2407,            651,              3
+       Kinshasa,             to,          Dhaka,           1526,           1312,           2094,           1109,           2412,            653,              3
+          Dhaka,             to,       Kinshasa,           2094,           1109,           1526,           1312,           2412,            653,              3
+          Xi'an,             to,          Cairo,           2250,           1021,           1646,           1063,           2421,            655,              3
+          Cairo,             to,          Xi'an,           1646,           1063,           2250,           1021,           2421,            655,              3
+        Beijing,             to,         Moscow,           2295,            966,           1719,            780,           2421,            655,              3
+         Moscow,             to,        Beijing,           1719,            780,           2295,            966,           2421,            655,              3
+         Moscow,             to,        Bangkok,           1719,            780,           2170,           1188,           2432,            658,              3
+        Bangkok,             to,         Moscow,           2170,           1188,           1719,            780,           2432,            658,              3
+          Xi'an,             to,       Istanbul,           2250,           1021,           1642,            958,           2445,            661,              3
+       Istanbul,             to,          Xi'an,           1642,            958,           2250,           1021,           2445,            661,              3
+         Sydney,             to,          Xi'an,           2547,           1565,           2250,           1021,           2479,            669,              3
+          Xi'an,             to,         Sydney,           2250,           1021,           2547,           1565,           2479,            669,              3
+      Guangzhou,             to,          Cairo,           2265,           1105,           1646,           1063,           2481,            670,              3
+          Cairo,             to,      Guangzhou,           1646,           1063,           2265,           1105,           2481,            670,              3
+          Delhi,             to,         London,           1993,           1068,           1410,            845,           2496,            674,              3
+         London,             to,          Delhi,           1410,            845,           1993,           1068,           2496,            674,              3
+          Lagos,             to,           Lima,           1452,           1241,            837,           1357,           2503,            675,              3
+           Lima,             to,          Lagos,            837,           1357,           1452,           1241,           2503,            675,              3
+        Chicago,             to,      Sao Paulo,            757,            931,           1062,           1480,           2512,            678,              3
+      Sao Paulo,             to,        Chicago,           1062,           1480,            757,            931,           2512,            678,              3
+   Buenos Aires,             to,       New York,            988,           1575,            864,            956,           2525,            681,              3
+       New York,             to,   Buenos Aires,            864,            956,            988,           1575,           2525,            681,              3
+        Chicago,             to, Rio De Janeiro,            757,            931,           1094,           1466,           2529,            682,              3
+ Rio De Janeiro,             to,        Chicago,           1094,           1466,            757,            931,           2529,            682,              3
+          Lagos,             to,        Kolkata,           1452,           1241,           2074,           1122,           2533,            683,              3
+        Kolkata,             to,          Lagos,           2074,           1122,           1452,           1241,           2533,            683,              3
+      Guangzhou,             to,         Moscow,           2265,           1105,           1719,            780,           2541,            685,              3
+         Moscow,             to,      Guangzhou,           1719,            780,           2265,           1105,           2541,            685,              3
+         Mumbai,             to,         London,           1970,           1147,           1410,            845,           2544,            686,              3
+         London,             to,         Mumbai,           1410,            845,           1970,           1147,           2544,            686,              3
+          Cairo,             to,        Jakarta,           1646,           1063,           2223,           1339,           2558,            689,              3
+        Jakarta,             to,          Cairo,           2223,           1339,           1646,           1063,           2558,            689,              3
+      Guangzhou,             to,       Istanbul,           2265,           1105,           1642,            958,           2560,            690,              3
+       Istanbul,             to,      Guangzhou,           1642,            958,           2265,           1105,           2560,            690,              3
+         Sydney,             to,          Dhaka,           2547,           1565,           2094,           1109,           2571,            692,              3
+          Dhaka,             to,         Sydney,           2094,           1109,           2547,           1565,           2571,            692,              3
+         Sydney,             to,        Kolkata,           2547,           1565,           2074,           1122,           2592,            698,              3
+        Kolkata,             to,         Sydney,           2074,           1122,           2547,           1565,           2592,            698,              3
+       Shenyang,             to,         Moscow,           2345,            948,           1719,            780,           2592,            698,              3
+         Moscow,             to,       Shenyang,           1719,            780,           2345,            948,           2592,            698,              3
+       Shenyang,             to,         Sydney,           2345,            948,           2547,           1565,           2596,            699,              3
+         Sydney,             to,       Shenyang,           2547,           1565,           2345,            948,           2596,            699,              3
+        Beijing,             to,         Sydney,           2295,            966,           2547,           1565,           2599,            699,              3
+         Sydney,             to,        Beijing,           2547,           1565,           2295,            966,           2599,            699,              3
+          Paris,             to,      Bangalore,           1436,            871,           2001,           1195,           2605,            701,              3
+      Bangalore,             to,          Paris,           2001,           1195,           1436,            871,           2605,            701,              3
+       Istanbul,             to,        Beijing,           1642,            958,           2295,            966,           2612,            703,              3
+        Beijing,             to,       Istanbul,           2295,            966,           1642,            958,           2612,            703,              3
+          Lagos,             to,       New York,           1452,           1241,            864,            956,           2613,            703,              3
+       New York,             to,          Lagos,            864,            956,           1452,           1241,           2613,            703,              3
+          Dhaka,             to,          Lagos,           2094,           1109,           1452,           1241,           2621,            705,              3
+          Lagos,             to,          Dhaka,           1452,           1241,           2094,           1109,           2621,            705,              3
+       Kinshasa,             to,        Bangkok,           1526,           1312,           2170,           1188,           2623,            705,              3
+        Bangkok,             to,       Kinshasa,           2170,           1188,           1526,           1312,           2623,            705,              3
+        Beijing,             to,          Cairo,           2295,            966,           1646,           1063,           2624,            706,              3
+          Cairo,             to,        Beijing,           1646,           1063,           2295,            966,           2624,            706,              3
+        Chicago,             to,         London,            757,            931,           1410,            845,           2634,            708,              3
+         London,             to,        Chicago,           1410,            845,            757,            931,           2634,            708,              3
+      Bangalore,             to,         Sydney,           2001,           1195,           2547,           1565,           2638,            709,              3
+         Sydney,             to,      Bangalore,           2547,           1565,           2001,           1195,           2638,            709,              3
+         Moscow,             to,       Shanghai,           1719,            780,           2323,           1052,           2649,            712,              3
+       Shanghai,             to,         Moscow,           2323,           1052,           1719,            780,           2649,            712,              3
+          Tokyo,             to,         Tehran,           2467,           1014,           1797,            997,           2680,            720,              3
+         Tehran,             to,          Tokyo,           1797,            997,           2467,           1014,           2680,            720,              3
+          Cairo,             to,       Shanghai,           1646,           1063,           2323,           1052,           2708,            727,              3
+       Shanghai,             to,          Cairo,           2323,           1052,           1646,           1063,           2708,            727,              3
+        Chicago,             to,          Paris,            757,            931,           1436,            871,           2726,            731,              3
+          Paris,             to,        Chicago,           1436,            871,            757,            931,           2726,            731,              3
+          Cairo,             to, Rio De Janeiro,           1646,           1063,           1094,           1466,           2733,            733,              3
+ Rio De Janeiro,             to,          Cairo,           1094,           1466,           1646,           1063,           2733,            733,              3
+   Buenos Aires,             to,        Chicago,            988,           1575,            757,            931,           2736,            734,              3
+        Chicago,             to,   Buenos Aires,            757,            931,            988,           1575,           2736,            734,              3
+         Moscow,             to,          Seoul,           1719,            780,           2372,            989,           2742,            735,              3
+          Seoul,             to,         Moscow,           2372,            989,           1719,            780,           2742,            735,              3
+        Kolkata,             to,          Paris,           2074,           1122,           1436,            871,           2742,            735,              3
+          Paris,             to,        Kolkata,           1436,            871,           2074,           1122,           2742,            735,              3
+ Rio De Janeiro,             to,          Paris,           1094,           1466,           1436,            871,           2745,            736,              3
+          Paris,             to, Rio De Janeiro,           1436,            871,           1094,           1466,           2745,            736,              3
+      Bangalore,             to,         London,           2001,           1195,           1410,            845,           2747,            736,              3
+         London,             to,      Bangalore,           1410,            845,           2001,           1195,           2747,            736,              3
+       Istanbul,             to,       Shanghai,           1642,            958,           2323,           1052,           2749,            737,              3
+       Shanghai,             to,       Istanbul,           2323,           1052,           1642,            958,           2749,            737,              3
+           Lima,             to,       Kinshasa,            837,           1357,           1526,           1312,           2761,            740,              4
+         Manila,             to,          Cairo,           2326,           1182,           1646,           1063,           2761,            740,              4
+          Cairo,             to,         Manila,           1646,           1063,           2326,           1182,           2761,            740,              4
+       Kinshasa,             to,           Lima,           1526,           1312,            837,           1357,           2761,            740,              4
+       Istanbul,             to,        Jakarta,           1642,            958,           2223,           1339,           2779,            744,              4
+        Jakarta,             to,       Istanbul,           2223,           1339,           1642,            958,           2779,            744,              4
+         London,             to, Rio De Janeiro,           1410,            845,           1094,           1466,           2787,            746,              4
+ Rio De Janeiro,             to,         London,           1094,           1466,           1410,            845,           2787,            746,              4
+       Kinshasa,             to,        Jakarta,           1526,           1312,           2223,           1339,           2790,            747,              4
+        Jakarta,             to,       Kinshasa,           2223,           1339,           1526,           1312,           2790,            747,              4
+          Dhaka,             to,          Paris,           2094,           1109,           1436,            871,           2798,            749,              4
+          Paris,             to,          Dhaka,           1436,            871,           2094,           1109,           2798,            749,              4
+       Istanbul,             to,       Shenyang,           1642,            958,           2345,            948,           2812,            753,              4
+       Shenyang,             to,       Istanbul,           2345,            948,           1642,            958,           2812,            753,              4
+      Sao Paulo,             to,    Los Angeles,           1062,           1480,            526,           1023,           2817,            754,              4
+    Los Angeles,             to,      Sao Paulo,            526,           1023,           1062,           1480,           2817,            754,              4
+          Cairo,             to,       Shenyang,           1646,           1063,           2345,            948,           2833,            758,              4
+       Shenyang,             to,          Cairo,           2345,            948,           1646,           1063,           2833,            758,              4
+         Sydney,             to,         Mumbai,           2547,           1565,           1970,           1147,           2849,            762,              4
+         Mumbai,             to,         Sydney,           1970,           1147,           2547,           1565,           2849,            762,              4
+          Paris,             to,      Sao Paulo,           1436,            871,           1062,           1480,           2858,            764,              4
+      Sao Paulo,             to,          Paris,           1062,           1480,           1436,            871,           2858,            764,              4
+          Cairo,             to,      Sao Paulo,           1646,           1063,           1062,           1480,           2870,            767,              4
+      Sao Paulo,             to,          Cairo,           1062,           1480,           1646,           1063,           2870,            767,              4
+        Kolkata,             to,         London,           2074,           1122,           1410,            845,           2877,            769,              4
+         London,             to,        Kolkata,           1410,            845,           2074,           1122,           2877,            769,              4
+       Istanbul,             to,         Manila,           1642,            958,           2326,           1182,           2878,            769,              4
+         Manila,             to,       Istanbul,           2326,           1182,           1642,            958,           2878,            769,              4
+    Los Angeles,             to,   Buenos Aires,            526,           1023,            988,           1575,           2879,            769,              4
+          Lagos,             to,        Bangkok,           1452,           1241,           2170,           1188,           2879,            769,              4
+        Bangkok,             to,          Lagos,           2170,           1188,           1452,           1241,           2879,            769,              4
+   Buenos Aires,             to,    Los Angeles,            988,           1575,            526,           1023,           2879,            769,              4
+ Rio De Janeiro,             to,    Los Angeles,           1094,           1466,            526,           1023,           2881,            770,              4
+    Los Angeles,             to, Rio De Janeiro,            526,           1023,           1094,           1466,           2881,            770,              4
+      Sao Paulo,             to,         London,           1062,           1480,           1410,            845,           2896,            774,              4
+         London,             to,      Sao Paulo,           1410,            845,           1062,           1480,           2896,            774,              4
+         Manila,             to,         Moscow,           2326,           1182,           1719,            780,           2912,            778,              4
+         Moscow,             to,         Manila,           1719,            780,           2326,           1182,           2912,            778,              4
+          Cairo,             to,          Seoul,           1646,           1063,           2372,            989,           2919,            779,              4
+          Seoul,             to,          Cairo,           2372,            989,           1646,           1063,           2919,            779,              4
+          Seoul,             to,       Istanbul,           2372,            989,           1642,            958,           2922,            780,              4
+       Istanbul,             to,          Seoul,           1642,            958,           2372,            989,           2922,            780,              4
+         London,             to,          Dhaka,           1410,            845,           2094,           1109,           2932,            783,              4
+          Dhaka,             to,         London,           2094,           1109,           1410,            845,           2932,            783,              4
+          Delhi,             to,         Sydney,           1993,           1068,           2547,           1565,           2977,            794,              4
+         Sydney,             to,          Delhi,           2547,           1565,           1993,           1068,           2977,            794,              4
+ Rio De Janeiro,             to,       Istanbul,           1094,           1466,           1642,            958,           2988,            797,              4
+       Istanbul,             to, Rio De Janeiro,           1642,            958,           1094,           1466,           2988,            797,              4
+       Kinshasa,             to,       New York,           1526,           1312,            864,            956,           3006,            801,              4
+       New York,             to,       Kinshasa,            864,            956,           1526,           1312,           3006,            801,              4
+         Moscow,             to,        Jakarta,           1719,            780,           2223,           1339,           3010,            802,              4
+        Jakarta,             to,         Moscow,           2223,           1339,           1719,            780,           3010,            802,              4
+          Lagos,             to,        Chicago,           1452,           1241,            757,            931,           3044,            811,              4
+        Chicago,             to,          Lagos,            757,            931,           1452,           1241,           3044,            811,              4
+      Guangzhou,             to,       Kinshasa,           2265,           1105,           1526,           1312,           3069,            817,              4
+       Kinshasa,             to,      Guangzhou,           1526,           1312,           2265,           1105,           3069,            817,              4
+           Lima,             to,         London,            837,           1357,           1410,            845,           3073,            818,              4
+         London,             to,           Lima,           1410,            845,            837,           1357,           3073,            818,              4
+          Paris,             to,           Lima,           1436,            871,            837,           1357,           3085,            821,              4
+           Lima,             to,          Paris,            837,           1357,           1436,            871,           3085,            821,              4
+    Mexico City,             to,          Lagos,            683,           1145,           1452,           1241,           3099,            824,              4
+          Lagos,             to,    Mexico City,           1452,           1241,            683,           1145,           3099,            824,              4
+          Lagos,             to,        Jakarta,           1452,           1241,           2223,           1339,           3108,            827,              4
+        Jakarta,             to,          Lagos,           2223,           1339,           1452,           1241,           3108,            827,              4
+       New York,             to,       Istanbul,            864,            956,           1642,            958,           3112,            828,              4
+       Istanbul,             to,       New York,           1642,            958,            864,            956,           3112,            828,              4
+      Sao Paulo,             to,       Istanbul,           1062,           1480,           1642,            958,           3121,            830,              4
+       Istanbul,             to,      Sao Paulo,           1642,            958,           1062,           1480,           3121,            830,              4
+          Xi'an,             to,       Kinshasa,           2250,           1021,           1526,           1312,           3121,            830,              4
+       Kinshasa,             to,          Xi'an,           1526,           1312,           2250,           1021,           3121,            830,              4
+        Karachi,             to,         Sydney,           1921,           1096,           2547,           1565,           3128,            832,              4
+         Sydney,             to,        Karachi,           2547,           1565,           1921,           1096,           3128,            832,              4
+         Moscow,             to,          Tokyo,           1719,            780,           2467,           1014,           3134,            833,              4
+          Tokyo,             to,         Moscow,           2467,           1014,           1719,            780,           3134,            833,              4
+    Mexico City,             to,         London,            683,           1145,           1410,            845,           3145,            836,              4
+         London,             to,    Mexico City,           1410,            845,            683,           1145,           3145,            836,              4
+          Cairo,             to,       New York,           1646,           1063,            864,            956,           3157,            839,              4
+       New York,             to,          Cairo,            864,            956,           1646,           1063,           3157,            839,              4
+        Bangkok,             to,          Paris,           2170,           1188,           1436,            871,           3198,            849,              4
+          Paris,             to,        Bangkok,           1436,            871,           2170,           1188,           3198,            849,              4
+          Paris,             to,    Mexico City,           1436,            871,            683,           1145,           3205,            851,              4
+    Mexico City,             to,          Paris,            683,           1145,           1436,            871,           3205,            851,              4
+         Manila,             to,       Kinshasa,           2326,           1182,           1526,           1312,           3241,            860,              4
+       Kinshasa,             to,         Manila,           1526,           1312,           2326,           1182,           3241,            860,              4
+          Cairo,             to,          Tokyo,           1646,           1063,           2467,           1014,           3289,            872,              4
+          Tokyo,             to,          Cairo,           2467,           1014,           1646,           1063,           3289,            872,              4
+          Lagos,             to,      Guangzhou,           1452,           1241,           2265,           1105,           3297,            874,              4
+      Guangzhou,             to,          Lagos,           2265,           1105,           1452,           1241,           3297,            874,              4
+          Tokyo,             to,       Istanbul,           2467,           1014,           1642,            958,           3307,            876,              4
+       Istanbul,             to,          Tokyo,           1642,            958,           2467,           1014,           3307,            876,              4
+          Xi'an,             to,          Paris,           2250,           1021,           1436,            871,           3310,            877,              4
+          Paris,             to,          Xi'an,           1436,            871,           2250,           1021,           3310,            877,              4
+          Lagos,             to,          Xi'an,           1452,           1241,           2250,           1021,           3311,            877,              4
+          Xi'an,             to,          Lagos,           2250,           1021,           1452,           1241,           3311,            877,              4
+          Cairo,             to,   Buenos Aires,           1646,           1063,            988,           1575,           3334,            883,              4
+   Buenos Aires,             to,          Cairo,            988,           1575,           1646,           1063,           3334,            883,              4
+        Bangkok,             to,         London,           2170,           1188,           1410,            845,           3335,            883,              4
+         London,             to,        Bangkok,           1410,            845,           2170,           1188,           3335,            883,              4
+          Paris,             to,   Buenos Aires,           1436,            871,            988,           1575,           3337,            884,              4
+   Buenos Aires,             to,          Paris,            988,           1575,           1436,            871,           3337,            884,              4
+       Shanghai,             to,       Kinshasa,           2323,           1052,           1526,           1312,           3353,            888,              4
+       Kinshasa,             to,       Shanghai,           1526,           1312,           2323,           1052,           3353,            888,              4
+   Buenos Aires,             to,         London,            988,           1575,           1410,            845,           3372,            893,              4
+         London,             to,   Buenos Aires,           1410,            845,            988,           1575,           3372,            893,              4
+        Beijing,             to,       Kinshasa,           2295,            966,           1526,           1312,           3373,            893,              4
+       Kinshasa,             to,        Beijing,           1526,           1312,           2295,            966,           3373,            893,              4
+         Tehran,             to, Rio De Janeiro,           1797,            997,           1094,           1466,           3380,            895,              4
+ Rio De Janeiro,             to,         Tehran,           1094,           1466,           1797,            997,           3380,            895,              4
+          Xi'an,             to,         London,           2250,           1021,           1410,            845,           3432,            908,              4
+         London,             to,          Xi'an,           1410,            845,           2250,           1021,           3432,            908,              4
+       Kinshasa,             to,        Chicago,           1526,           1312,            757,            931,           3432,            908,              4
+        Chicago,             to,       Kinshasa,            757,            931,           1526,           1312,           3432,            908,              4
+          Tokyo,             to,    Los Angeles,           2467,           1014,            526,           1023,           3436,            909,              4
+    Los Angeles,             to,          Tokyo,            526,           1023,           2467,           1014,           3436,            909,              4
+    Mexico City,             to,       Kinshasa,            683,           1145,           1526,           1312,           3437,            909,              4
+       Kinshasa,             to,    Mexico City,           1526,           1312,            683,           1145,           3437,            909,              4
+          Cairo,             to,           Lima,           1646,           1063,            837,           1357,           3443,            910,              4
+           Lima,             to,          Cairo,            837,           1357,           1646,           1063,           3443,            910,              4
+          Paris,             to,      Guangzhou,           1436,            871,           2265,           1105,           3445,            911,              4
+      Guangzhou,             to,          Paris,           2265,           1105,           1436,            871,           3445,            911,              4
+        Beijing,             to,          Paris,           2295,            966,           1436,            871,           3456,            914,              4
+          Paris,             to,        Beijing,           1436,            871,           2295,            966,           3456,            914,              4
+         Moscow,             to,       New York,           1719,            780,            864,            956,           3491,            922,              4
+       New York,             to,         Moscow,            864,            956,           1719,            780,           3491,            922,              4
+         Manila,             to,          Lagos,           2326,           1182,           1452,           1241,           3503,            925,              4
+          Lagos,             to,         Manila,           1452,           1241,           2326,           1182,           3503,            925,              4
+         Tehran,             to,      Sao Paulo,           1797,            997,           1062,           1480,           3517,            929,              4
+      Sao Paulo,             to,         Tehran,           1062,           1480,           1797,            997,           3517,            929,              4
+        Chicago,             to,       Istanbul,            757,            931,           1642,            958,           3541,            935,              4
+       Istanbul,             to,        Chicago,           1642,            958,            757,            931,           3541,            935,              4
+        Beijing,             to,          Lagos,           2295,            966,           1452,           1241,           3546,            936,              4
+          Lagos,             to,        Beijing,           1452,           1241,           2295,            966,           3546,            936,              4
+          Lagos,             to,       Shanghai,           1452,           1241,           2323,           1052,           3565,            941,              4
+       Shanghai,             to,          Lagos,           2323,           1052,           1452,           1241,           3565,            941,              4
+         London,             to,        Beijing,           1410,            845,           2295,            966,           3572,            943,              4
+        Beijing,             to,         London,           2295,            966,           1410,            845,           3572,            943,              4
+         London,             to,      Guangzhou,           1410,            845,           2265,           1105,           3574,            943,              4
+      Guangzhou,             to,         London,           2265,           1105,           1410,            845,           3574,            943,              4
+       Kinshasa,             to,       Shenyang,           1526,           1312,           2345,            948,           3584,            946,              4
+       Shenyang,             to,       Kinshasa,           2345,            948,           1526,           1312,           3584,            946,              4
+           Lima,             to,       Istanbul,            837,           1357,           1642,            958,           3593,            948,              4
+       Istanbul,             to,           Lima,           1642,            958,            837,           1357,           3593,            948,              4
+          Cairo,             to,        Chicago,           1646,           1063,            757,            931,           3594,            948,              4
+        Chicago,             to,          Cairo,            757,            931,           1646,           1063,           3594,            948,              4
+   Buenos Aires,             to,       Istanbul,            988,           1575,           1642,            958,           3596,            949,              4
+       Istanbul,             to,   Buenos Aires,           1642,            958,            988,           1575,           3596,            949,              4
+         London,             to,    Los Angeles,           1410,            845,            526,           1023,           3606,            951,              4
+    Los Angeles,             to,         London,            526,           1023,           1410,            845,           3606,            951,              4
+          Paris,             to,       Shanghai,           1436,            871,           2323,           1052,           3621,            955,              4
+       Shanghai,             to,          Paris,           2323,           1052,           1436,            871,           3621,            955,              4
+       Kinshasa,             to,          Seoul,           1526,           1312,           2372,            989,           3622,            955,              4
+          Seoul,             to,       Kinshasa,           2372,            989,           1526,           1312,           3622,            955,              4
+ Rio De Janeiro,             to,        Karachi,           1094,           1466,           1921,           1096,           3623,            955,              4
+        Karachi,             to, Rio De Janeiro,           1921,           1096,           1094,           1466,           3623,            955,              4
+          Paris,             to,       Shenyang,           1436,            871,           2345,            948,           3649,            962,              4
+       Shenyang,             to,          Paris,           2345,            948,           1436,            871,           3649,            962,              4
+          Paris,             to,        Jakarta,           1436,            871,           2223,           1339,           3662,            965,              4
+        Jakarta,             to,          Paris,           2223,           1339,           1436,            871,           3662,            965,              4
+          Paris,             to,    Los Angeles,           1436,            871,            526,           1023,           3690,            972,              5
+    Los Angeles,             to,          Paris,            526,           1023,           1436,            871,           3690,            972,              5
+         Moscow,             to, Rio De Janeiro,           1719,            780,           1094,           1466,           3712,            978,              5
+ Rio De Janeiro,             to,         Moscow,           1094,           1466,           1719,            780,           3712,            978,              5
+         Mumbai,             to, Rio De Janeiro,           1970,           1147,           1094,           1466,           3729,            982,              5
+ Rio De Janeiro,             to,         Mumbai,           1094,           1466,           1970,           1147,           3729,            982,              5
+         Tehran,             to,       New York,           1797,            997,            864,            956,           3735,            983,              5
+       New York,             to,         Tehran,            864,            956,           1797,            997,           3735,            983,              5
+       Shanghai,             to,         London,           2323,           1052,           1410,            845,           3744,            986,              5
+         London,             to,       Shanghai,           1410,            845,           2323,           1052,           3744,            986,              5
+       Shenyang,             to,          Lagos,           2345,            948,           1452,           1241,           3759,            989,              5
+          Lagos,             to,       Shenyang,           1452,           1241,           2345,            948,           3759,            989,              5
+       Shenyang,             to,         London,           2345,            948,           1410,            845,           3762,            990,              5
+         London,             to,       Shenyang,           1410,            845,           2345,            948,           3762,            990,              5
+        Karachi,             to,      Sao Paulo,           1921,           1096,           1062,           1480,           3763,            990,              5
+         Tehran,             to,         Sydney,           1797,            997,           2547,           1565,           3763,            990,              5
+         Sydney,             to,         Tehran,           2547,           1565,           1797,            997,           3763,            990,              5
+      Sao Paulo,             to,        Karachi,           1062,           1480,           1921,           1096,           3763,            990,              5
+          Paris,             to,         Manila,           1436,            871,           2326,           1182,           3771,            992,              5
+         Manila,             to,          Paris,           2326,           1182,           1436,            871,           3771,            992,              5
+          Paris,             to,          Seoul,           1436,            871,           2372,            989,           3773,            993,              5
+          Seoul,             to,          Paris,           2372,            989,           1436,            871,           3773,            993,              5
+      Bangalore,             to, Rio De Janeiro,           2001,           1195,           1094,           1466,           3786,            996,              5
+ Rio De Janeiro,             to,      Bangalore,           1094,           1466,           2001,           1195,           3786,            996,              5
+    Los Angeles,             to,         Sydney,            526,           1023,           2547,           1565,           3796,            999,              5
+         Sydney,             to,    Los Angeles,           2547,           1565,            526,           1023,           3796,            999,              5
+         London,             to,        Jakarta,           1410,            845,           2223,           1339,           3805,           1001,              5
+    Los Angeles,             to,          Lagos,            526,           1023,           1452,           1241,           3805,           1001,              5
+          Lagos,             to,    Los Angeles,           1452,           1241,            526,           1023,           3805,           1001,              5
+        Jakarta,             to,         London,           2223,           1339,           1410,            845,           3805,           1001,              5
+          Seoul,             to,          Lagos,           2372,            989,           1452,           1241,           3815,           1003,              5
+          Lagos,             to,          Seoul,           1452,           1241,           2372,            989,           3815,           1003,              5
+    Los Angeles,             to,          Seoul,            526,           1023,           2372,            989,           3818,           1004,              5
+          Seoul,             to,    Los Angeles,           2372,            989,            526,           1023,           3818,           1004,              5
+      Sao Paulo,             to,         Moscow,           1062,           1480,           1719,            780,           3840,           1010,              5
+         Moscow,             to,      Sao Paulo,           1719,            780,           1062,           1480,           3840,           1010,              5
+          Cairo,             to,    Mexico City,           1646,           1063,            683,           1145,           3865,           1016,              5
+    Mexico City,             to,          Cairo,            683,           1145,           1646,           1063,           3865,           1016,              5
+         Mumbai,             to,      Sao Paulo,           1970,           1147,           1062,           1480,           3868,           1017,              5
+      Sao Paulo,             to,         Mumbai,           1062,           1480,           1970,           1147,           3868,           1017,              5
+          Seoul,             to,         London,           2372,            989,           1410,            845,           3890,           1022,              5
+         London,             to,          Seoul,           1410,            845,           2372,            989,           3890,           1022,              5
+         Moscow,             to,        Chicago,           1719,            780,            757,            931,           3895,           1023,              5
+        Chicago,             to,         Moscow,            757,            931,           1719,            780,           3895,           1023,              5
+         Manila,             to,         London,           2326,           1182,           1410,            845,           3904,           1026,              5
+         London,             to,         Manila,           1410,            845,           2326,           1182,           3904,           1026,              5
+       Istanbul,             to,    Mexico City,           1642,            958,            683,           1145,           3908,           1027,              5
+    Mexico City,             to,       Istanbul,            683,           1145,           1642,            958,           3908,           1027,              5
+      Bangalore,             to,      Sao Paulo,           2001,           1195,           1062,           1480,           3925,           1031,              5
+      Sao Paulo,             to,      Bangalore,           1062,           1480,           2001,           1195,           3925,           1031,              5
+ Rio De Janeiro,             to,          Delhi,           1094,           1466,           1993,           1068,           3932,           1033,              5
+          Delhi,             to, Rio De Janeiro,           1993,           1068,           1094,           1466,           3932,           1033,              5
+       Shenyang,             to,    Los Angeles,           2345,            948,            526,           1023,           3935,           1033,              5
+    Los Angeles,             to,       Shenyang,            526,           1023,           2345,            948,           3935,           1033,              5
+       Kinshasa,             to,          Tokyo,           1526,           1312,           2467,           1014,           3948,           1037,              5
+          Tokyo,             to,       Kinshasa,           2467,           1014,           1526,           1312,           3948,           1037,              5
+         Tehran,             to,   Buenos Aires,           1797,            997,            988,           1575,           3977,           1044,              5
+   Buenos Aires,             to,         Tehran,            988,           1575,           1797,            997,           3977,           1044,              5
+       Shanghai,             to,    Los Angeles,           2323,           1052,            526,           1023,           4013,           1053,              5
+    Los Angeles,             to,       Shanghai,            526,           1023,           2323,           1052,           4013,           1053,              5
+         Manila,             to,    Los Angeles,           2326,           1182,            526,           1023,           4050,           1062,              5
+    Los Angeles,             to,         Manila,            526,           1023,           2326,           1182,           4050,           1062,              5
+          Delhi,             to,      Sao Paulo,           1993,           1068,           1062,           1480,           4072,           1068,              5
+      Sao Paulo,             to,          Delhi,           1062,           1480,           1993,           1068,           4072,           1068,              5
+          Tokyo,             to,    Mexico City,           2467,           1014,            683,           1145,           4097,           1074,              5
+    Mexico City,             to,          Tokyo,            683,           1145,           2467,           1014,           4097,           1074,              5
+           Lima,             to,         Tehran,            837,           1357,           1797,            997,           4101,           1075,              5
+         Tehran,             to,           Lima,           1797,            997,            837,           1357,           4101,           1075,              5
+    Mexico City,             to,         Sydney,            683,           1145,           2547,           1565,           4103,           1075,              5
+         Sydney,             to,    Mexico City,           2547,           1565,            683,           1145,           4103,           1075,              5
+          Cairo,             to,         Sydney,           1646,           1063,           2547,           1565,           4125,           1081,              5
+         Sydney,             to,          Cairo,           2547,           1565,           1646,           1063,           4125,           1081,              5
+    Los Angeles,             to,        Beijing,            526,           1023,           2295,            966,           4130,           1082,              5
+        Beijing,             to,    Los Angeles,           2295,            966,            526,           1023,           4130,           1082,              5
+ Rio De Janeiro,             to,        Kolkata,           1094,           1466,           2074,           1122,           4154,           1088,              5
+        Kolkata,             to, Rio De Janeiro,           2074,           1122,           1094,           1466,           4154,           1088,              5
+          Tokyo,             to,          Lagos,           2467,           1014,           1452,           1241,           4160,           1090,              5
+          Lagos,             to,          Tokyo,           1452,           1241,           2467,           1014,           4160,           1090,              5
+    Los Angeles,             to,       Kinshasa,            526,           1023,           1526,           1312,           4163,           1090,              5
+          Paris,             to,          Tokyo,           1436,            871,           2467,           1014,           4163,           1090,              5
+       Kinshasa,             to,    Los Angeles,           1526,           1312,            526,           1023,           4163,           1090,              5
+          Tokyo,             to,          Paris,           2467,           1014,           1436,            871,           4163,           1090,              5
+         Tehran,             to,        Chicago,           1797,            997,            757,            931,           4168,           1092,              5
+        Chicago,             to,         Tehran,            757,            931,           1797,            997,           4168,           1092,              5
+        Karachi,             to,   Buenos Aires,           1921,           1096,            988,           1575,           4195,           1098,              5
+   Buenos Aires,             to,        Karachi,            988,           1575,           1921,           1096,           4195,           1098,              5
+       Kinshasa,             to,         Sydney,           1526,           1312,           2547,           1565,           4207,           1101,              5
+         Sydney,             to,       Kinshasa,           2547,           1565,           1526,           1312,           4207,           1101,              5
+         Moscow,             to,           Lima,           1719,            780,            837,           1357,           4215,           1103,              5
+           Lima,             to,         Moscow,            837,           1357,           1719,            780,           4215,           1103,              5
+          Dhaka,             to, Rio De Janeiro,           2094,           1109,           1094,           1466,           4247,           1111,              5
+ Rio De Janeiro,             to,          Dhaka,           1094,           1466,           2094,           1109,           4247,           1111,              5
+    Los Angeles,             to,      Guangzhou,            526,           1023,           2265,           1105,           4256,           1114,              5
+      Guangzhou,             to,    Los Angeles,           2265,           1105,            526,           1023,           4256,           1114,              5
+        Karachi,             to,       New York,           1921,           1096,            864,            956,           4264,           1116,              5
+       New York,             to,        Karachi,            864,            956,           1921,           1096,           4264,           1116,              5
+          Tokyo,             to,         London,           2467,           1014,           1410,            845,           4281,           1120,              5
+         London,             to,          Tokyo,           1410,            845,           2467,           1014,           4281,           1120,              5
+   Buenos Aires,             to,         Mumbai,            988,           1575,           1970,           1147,           4284,           1121,              5
+         Mumbai,             to,   Buenos Aires,           1970,           1147,            988,           1575,           4284,           1121,              5
+      Sao Paulo,             to,        Kolkata,           1062,           1480,           2074,           1122,           4293,           1123,              5
+        Kolkata,             to,      Sao Paulo,           2074,           1122,           1062,           1480,           4293,           1123,              5
+    Los Angeles,             to,          Xi'an,            526,           1023,           2250,           1021,           4304,           1126,              5
+          Xi'an,             to,    Los Angeles,           2250,           1021,            526,           1023,           4304,           1126,              5
+         Moscow,             to,   Buenos Aires,           1719,            780,            988,           1575,           4319,           1129,              5
+   Buenos Aires,             to,         Moscow,            988,           1575,           1719,            780,           4319,           1129,              5
+      Bangalore,             to,   Buenos Aires,           2001,           1195,            988,           1575,           4327,           1131,              5
+   Buenos Aires,             to,      Bangalore,            988,           1575,           2001,           1195,           4327,           1131,              5
+         Sydney,             to,       Istanbul,           2547,           1565,           1642,            958,           4358,           1139,              5
+       Istanbul,             to,         Sydney,           1642,            958,           2547,           1565,           4358,           1139,              5
+          Tokyo,             to,        Chicago,           2467,           1014,            757,            931,           4372,           1143,              5
+        Chicago,             to,          Tokyo,            757,            931,           2467,           1014,           4372,           1143,              5
+          Dhaka,             to,      Sao Paulo,           2094,           1109,           1062,           1480,           4386,           1146,              5
+      Sao Paulo,             to,          Dhaka,           1062,           1480,           2094,           1109,           4386,           1146,              5
+         Moscow,             to,    Mexico City,           1719,            780,            683,           1145,           4393,           1148,              5
+    Mexico City,             to,         Moscow,            683,           1145,           1719,            780,           4393,           1148,              5
+         Sydney,             to,           Lima,           2547,           1565,            837,           1357,           4438,           1159,              5
+           Lima,             to,         Sydney,            837,           1357,           2547,           1565,           4438,           1159,              5
+        Bangkok,             to, Rio De Janeiro,           2170,           1188,           1094,           1466,           4445,           1161,              5
+ Rio De Janeiro,             to,        Bangkok,           1094,           1466,           2170,           1188,           4445,           1161,              5
+        Karachi,             to,           Lima,           1921,           1096,            837,           1357,           4459,           1164,              5
+           Lima,             to,        Karachi,            837,           1357,           1921,           1096,           4459,           1164,              5
+       Istanbul,             to,    Los Angeles,           1642,            958,            526,           1023,           4471,           1167,              5
+    Los Angeles,             to,       Istanbul,            526,           1023,           1642,            958,           4471,           1167,              5
+          Cairo,             to,    Los Angeles,           1646,           1063,            526,           1023,           4482,           1170,              5
+    Los Angeles,             to,          Cairo,            526,           1023,           1646,           1063,           4482,           1170,              5
+          Seoul,             to,    Mexico City,           2372,            989,            683,           1145,           4487,           1171,              5
+    Mexico City,             to,          Seoul,            683,           1145,           2372,            989,           4487,           1171,              5
+         Mumbai,             to,       New York,           1970,           1147,            864,            956,           4489,           1172,              5
+       New York,             to,         Mumbai,            864,            956,           1970,           1147,           4489,           1172,              5
+    Mexico City,             to,         Tehran,            683,           1145,           1797,            997,           4495,           1173,              5
+         Tehran,             to,    Mexico City,           1797,            997,            683,           1145,           4495,           1173,              5
+   Buenos Aires,             to,          Delhi,            988,           1575,           1993,           1068,           4502,           1175,              5
+          Delhi,             to,   Buenos Aires,           1993,           1068,            988,           1575,           4502,           1175,              5
+          Delhi,             to,       New York,           1993,           1068,            864,            956,           4538,           1184,              5
+       New York,             to,          Delhi,            864,            956,           1993,           1068,           4538,           1184,              5
+        Jakarta,             to, Rio De Janeiro,           2223,           1339,           1094,           1466,           4544,           1186,              5
+ Rio De Janeiro,             to,        Jakarta,           1094,           1466,           2223,           1339,           4544,           1186,              5
+         Sydney,             to,         Moscow,           2547,           1565,           1719,            780,           4563,           1190,              5
+         Moscow,             to,         Sydney,           1719,            780,           2547,           1565,           4563,           1190,              5
+          Lagos,             to,         Sydney,           1452,           1241,           2547,           1565,           4567,           1191,              5
+         Sydney,             to,          Lagos,           2547,           1565,           1452,           1241,           4567,           1191,              5
+      Sao Paulo,             to,        Bangkok,           1062,           1480,           2170,           1188,           4583,           1195,              5
+        Bangkok,             to,      Sao Paulo,           2170,           1188,           1062,           1480,           4583,           1195,              5
+        Jakarta,             to,    Los Angeles,           2223,           1339,            526,           1023,           4589,           1197,              5
+    Los Angeles,             to,        Jakarta,            526,           1023,           2223,           1339,           4589,           1197,              5
+         Mumbai,             to,           Lima,           1970,           1147,            837,           1357,           4609,           1202,              6
+           Lima,             to,         Mumbai,            837,           1357,           1970,           1147,           4609,           1202,              6
+       Shenyang,             to,    Mexico City,           2345,            948,            683,           1145,           4619,           1204,              6
+    Mexico City,             to,       Shenyang,            683,           1145,           2345,            948,           4619,           1204,              6
+         Manila,             to,    Mexico City,           2326,           1182,            683,           1145,           4630,           1207,              6
+    Mexico City,             to,         Manila,            683,           1145,           2326,           1182,           4630,           1207,              6
+       New York,             to,      Bangalore,            864,            956,           2001,           1195,           4647,           1211,              6
+      Bangalore,             to,       New York,           2001,           1195,            864,            956,           4647,           1211,              6
+    Mexico City,             to,       Shanghai,            683,           1145,           2323,           1052,           4654,           1213,              6
+       Shanghai,             to,    Mexico City,           2323,           1052,            683,           1145,           4654,           1213,              6
+    Los Angeles,             to,        Bangkok,            526,           1023,           2170,           1188,           4670,           1217,              6
+        Bangkok,             to,    Los Angeles,           2170,           1188,            526,           1023,           4670,           1217,              6
+      Sao Paulo,             to,        Jakarta,           1062,           1480,           2223,           1339,           4678,           1219,              6
+        Jakarta,             to,      Sao Paulo,           2223,           1339,           1062,           1480,           4678,           1219,              6
+           Lima,             to,      Bangalore,            837,           1357,           2001,           1195,           4700,           1225,              6
+      Bangalore,             to,           Lima,           2001,           1195,            837,           1357,           4700,           1225,              6
+        Chicago,             to,        Karachi,            757,            931,           1921,           1096,           4702,           1225,              6
+        Karachi,             to,        Chicago,           1921,           1096,            757,            931,           4702,           1225,              6
+        Kolkata,             to,   Buenos Aires,           2074,           1122,            988,           1575,           4706,           1226,              6
+   Buenos Aires,             to,        Kolkata,            988,           1575,           2074,           1122,           4706,           1226,              6
+          Seoul,             to,        Chicago,           2372,            989,            757,            931,           4745,           1236,              6
+        Chicago,             to,          Seoul,            757,            931,           2372,            989,           4745,           1236,              6
+           Lima,             to,          Delhi,            837,           1357,           1993,           1068,           4766,           1241,              6
+          Delhi,             to,           Lima,           1993,           1068,            837,           1357,           4766,           1241,              6
+         Sydney,             to,        Chicago,           2547,           1565,            757,            931,           4769,           1242,              6
+        Chicago,             to,         Sydney,            757,            931,           2547,           1565,           4769,           1242,              6
+       New York,             to,          Tokyo,            864,            956,           2467,           1014,           4793,           1248,              6
+          Tokyo,             to,       New York,           2467,           1014,            864,            956,           4793,           1248,              6
+          Dhaka,             to,   Buenos Aires,           2094,           1109,            988,           1575,           4800,           1250,              6
+   Buenos Aires,             to,          Dhaka,            988,           1575,           2094,           1109,           4800,           1250,              6
+    Mexico City,             to,        Beijing,            683,           1145,           2295,            966,           4805,           1251,              6
+        Beijing,             to,    Mexico City,           2295,            966,            683,           1145,           4805,           1251,              6
+        Chicago,             to,       Shenyang,            757,            931,           2345,            948,           4848,           1262,              6
+       Shenyang,             to,        Chicago,           2345,            948,            757,            931,           4848,           1262,              6
+    Los Angeles,             to,         Moscow,            526,           1023,           1719,            780,           4869,           1267,              6
+         Moscow,             to,    Los Angeles,           1719,            780,            526,           1023,           4869,           1267,              6
+    Mexico City,             to,      Guangzhou,            683,           1145,           2265,           1105,           4874,           1268,              6
+      Guangzhou,             to,    Mexico City,           2265,           1105,            683,           1145,           4874,           1268,              6
+           Lima,             to,          Tokyo,            837,           1357,           2467,           1014,           4876,           1269,              6
+          Tokyo,             to,           Lima,           2467,           1014,            837,           1357,           4876,           1269,              6
+        Kolkata,             to,       New York,           2074,           1122,            864,            956,           4885,           1271,              6
+       New York,             to,        Kolkata,            864,            956,           2074,           1122,           4885,           1271,              6
+      Guangzhou,             to, Rio De Janeiro,           2265,           1105,           1094,           1466,           4901,           1275,              6
+ Rio De Janeiro,             to,      Guangzhou,           1094,           1466,           2265,           1105,           4901,           1275,              6
+        Chicago,             to,         Mumbai,            757,            931,           1970,           1147,           4928,           1282,              6
+         Mumbai,             to,        Chicago,           1970,           1147,            757,            931,           4928,           1282,              6
+          Dhaka,             to,    Los Angeles,           2094,           1109,            526,           1023,           4939,           1284,              6
+    Los Angeles,             to,          Dhaka,            526,           1023,           2094,           1109,           4939,           1284,              6
+ Rio De Janeiro,             to,          Xi'an,           1094,           1466,           2250,           1021,           4954,           1288,              6
+          Xi'an,             to, Rio De Janeiro,           2250,           1021,           1094,           1466,           4954,           1288,              6
+    Mexico City,             to,        Karachi,            683,           1145,           1921,           1096,           4955,           1288,              6
+        Karachi,             to,    Mexico City,           1921,           1096,            683,           1145,           4955,           1288,              6
+          Xi'an,             to,    Mexico City,           2250,           1021,            683,           1145,           4956,           1289,              6
+    Mexico City,             to,          Xi'an,            683,           1145,           2250,           1021,           4956,           1289,              6
+       New York,             to,          Dhaka,            864,            956,           2094,           1109,           4957,           1289,              6
+          Dhaka,             to,       New York,           2094,           1109,            864,            956,           4957,           1289,              6
+       Shanghai,             to,        Chicago,           2323,           1052,            757,            931,           4959,           1289,              6
+        Chicago,             to,       Shanghai,            757,            931,           2323,           1052,           4959,           1289,              6
+         Sydney,             to,   Buenos Aires,           2547,           1565,            988,           1575,           4964,           1291,              6
+   Buenos Aires,             to,         Sydney,            988,           1575,           2547,           1565,           4964,           1291,              6
+        Chicago,             to,          Delhi,            757,            931,           1993,           1068,           4974,           1293,              6
+          Delhi,             to,        Chicago,           1993,           1068,            757,            931,           4974,           1293,              6
+        Bangkok,             to,   Buenos Aires,           2170,           1188,            988,           1575,           4974,           1293,              6
+   Buenos Aires,             to,        Bangkok,            988,           1575,           2170,           1188,           4974,           1293,              6
+        Kolkata,             to,    Los Angeles,           2074,           1122,            526,           1023,           5023,           1305,              6
+    Los Angeles,             to,        Kolkata,            526,           1023,           2074,           1122,           5023,           1305,              6
+         Manila,             to,        Chicago,           2326,           1182,            757,            931,           5025,           1306,              6
+        Chicago,             to,         Manila,            757,            931,           2326,           1182,           5025,           1306,              6
+        Jakarta,             to,   Buenos Aires,           2223,           1339,            988,           1575,           5029,           1307,              6
+   Buenos Aires,             to,        Jakarta,            988,           1575,           2223,           1339,           5029,           1307,              6
+        Kolkata,             to,           Lima,           2074,           1122,            837,           1357,           5036,           1309,              6
+           Lima,             to,        Kolkata,            837,           1357,           2074,           1122,           5036,           1309,              6
+      Guangzhou,             to,      Sao Paulo,           2265,           1105,           1062,           1480,           5040,           1310,              6
+      Sao Paulo,             to,      Guangzhou,           1062,           1480,           2265,           1105,           5040,           1310,              6
+        Beijing,             to,        Chicago,           2295,            966,            757,            931,           5049,           1312,              6
+        Chicago,             to,        Beijing,            757,            931,           2295,            966,           5049,           1312,              6
+         Manila,             to, Rio De Janeiro,           2326,           1182,           1094,           1466,           5057,           1314,              6
+ Rio De Janeiro,             to,         Manila,           1094,           1466,           2326,           1182,           5057,           1314,              6
+    Los Angeles,             to,         Tehran,            526,           1023,           1797,            997,           5085,           1321,              6
+         Tehran,             to,    Los Angeles,           1797,            997,            526,           1023,           5085,           1321,              6
+      Bangalore,             to,        Chicago,           2001,           1195,            757,            931,           5086,           1321,              6
+        Chicago,             to,      Bangalore,            757,            931,           2001,           1195,           5086,           1321,              6
+         Sydney,             to,       New York,           2547,           1565,            864,            956,           5088,           1322,              6
+       New York,             to,         Sydney,            864,            956,           2547,           1565,           5088,           1322,              6
+      Sao Paulo,             to,          Xi'an,           1062,           1480,           2250,           1021,           5094,           1323,              6
+          Xi'an,             to,      Sao Paulo,           2250,           1021,           1062,           1480,           5094,           1323,              6
+    Mexico City,             to,        Jakarta,            683,           1145,           2223,           1339,           5099,           1324,              6
+        Jakarta,             to,    Mexico City,           2223,           1339,            683,           1145,           5099,           1324,              6
+          Dhaka,             to,           Lima,           2094,           1109,            837,           1357,           5124,           1331,              6
+           Lima,             to,          Dhaka,            837,           1357,           2094,           1109,           5124,           1331,              6
+         Mumbai,             to,    Mexico City,           1970,           1147,            683,           1145,           5148,           1337,              6
+    Mexico City,             to,         Mumbai,            683,           1145,           1970,           1147,           5148,           1337,              6
+          Seoul,             to,       New York,           2372,            989,            864,            956,           5169,           1342,              6
+       New York,             to,          Seoul,            864,            956,           2372,            989,           5169,           1342,              6
+ Rio De Janeiro,             to,       Shanghai,           1094,           1466,           2323,           1052,           5187,           1346,              6
+       Shanghai,             to, Rio De Janeiro,           2323,           1052,           1094,           1466,           5187,           1346,              6
+         Manila,             to,      Sao Paulo,           2326,           1182,           1062,           1480,           5194,           1348,              6
+      Sao Paulo,             to,         Manila,           1062,           1480,           2326,           1182,           5194,           1348,              6
+        Beijing,             to, Rio De Janeiro,           2295,            966,           1094,           1466,           5203,           1350,              6
+ Rio De Janeiro,             to,        Beijing,           1094,           1466,           2295,            966,           5203,           1350,              6
+        Chicago,             to,      Guangzhou,            757,            931,           2265,           1105,           5214,           1353,              6
+      Guangzhou,             to,        Chicago,           2265,           1105,            757,            931,           5214,           1353,              6
+         Sydney,             to,          Paris,           2547,           1565,           1436,            871,           5239,           1359,              6
+          Paris,             to,         Sydney,           1436,            871,           2547,           1565,           5239,           1359,              6
+        Chicago,             to,          Xi'an,            757,            931,           2250,           1021,           5240,           1360,              6
+          Xi'an,             to,        Chicago,           2250,           1021,            757,            931,           5240,           1360,              6
+    Mexico City,             to,          Delhi,            683,           1145,           1993,           1068,           5249,           1362,              6
+          Delhi,             to,    Mexico City,           1993,           1068,            683,           1145,           5249,           1362,              6
+    Mexico City,             to,        Bangkok,            683,           1145,           2170,           1188,           5254,           1363,              6
+        Bangkok,             to,    Mexico City,           2170,           1188,            683,           1145,           5254,           1363,              6
+           Lima,             to,          Seoul,            837,           1357,           2372,            989,           5269,           1367,              6
+          Seoul,             to,           Lima,           2372,            989,            837,           1357,           5269,           1367,              6
+         Sydney,             to,      Sao Paulo,           2547,           1565,           1062,           1480,           5270,           1367,              6
+      Sao Paulo,             to,         Sydney,           1062,           1480,           2547,           1565,           5270,           1367,              6
+    Mexico City,             to,      Bangalore,            683,           1145,           2001,           1195,           5275,           1368,              6
+      Bangalore,             to,    Mexico City,           2001,           1195,            683,           1145,           5275,           1368,              6
+       New York,             to,       Shenyang,            864,            956,           2345,            948,           5276,           1369,              6
+       Shenyang,             to,       New York,           2345,            948,            864,            956,           5276,           1369,              6
+           Lima,             to,         Manila,            837,           1357,           2326,           1182,           5290,           1372,              6
+         Manila,             to,           Lima,           2326,           1182,            837,           1357,           5290,           1372,              6
+       New York,             to,        Bangkok,            864,            956,           2170,           1188,           5305,           1376,              6
+        Bangkok,             to,       New York,           2170,           1188,            864,            956,           5305,           1376,              6
+        Chicago,             to,        Kolkata,            757,            931,           2074,           1122,           5323,           1380,              6
+        Kolkata,             to,        Chicago,           2074,           1122,            757,            931,           5323,           1380,              6
+      Sao Paulo,             to,       Shanghai,           1062,           1480,           2323,           1052,           5326,           1381,              6
+       Shanghai,             to,      Sao Paulo,           2323,           1052,           1062,           1480,           5326,           1381,              6
+    Los Angeles,             to,          Delhi,            526,           1023,           1993,           1068,           5335,           1383,              6
+          Delhi,             to,    Los Angeles,           1993,           1068,            526,           1023,           5335,           1383,              6
+      Sao Paulo,             to,        Beijing,           1062,           1480,           2295,            966,           5343,           1385,              6
+        Beijing,             to,      Sao Paulo,           2295,            966,           1062,           1480,           5343,           1385,              6
+    Los Angeles,             to,      Bangalore,            526,           1023,           2001,           1195,           5344,           1386,              6
+      Bangalore,             to,    Los Angeles,           2001,           1195,            526,           1023,           5344,           1386,              6
+           Lima,             to,        Bangkok,            837,           1357,           2170,           1188,           5374,           1393,              6
+        Bangkok,             to,           Lima,           2170,           1188,            837,           1357,           5374,           1393,              6
+       Shanghai,             to,       New York,           2323,           1052,            864,            956,           5377,           1394,              6
+       New York,             to,       Shanghai,            864,            956,           2323,           1052,           5377,           1394,              6
+         Sydney,             to,         London,           2547,           1565,           1410,            845,           5383,           1395,              6
+         London,             to,         Sydney,           1410,            845,           2547,           1565,           5383,           1395,              6
+          Dhaka,             to,        Chicago,           2094,           1109,            757,            931,           5395,           1398,              6
+       Shanghai,             to,           Lima,           2323,           1052,            837,           1357,           5395,           1398,              6
+        Chicago,             to,          Dhaka,            757,            931,           2094,           1109,           5395,           1398,              6
+           Lima,             to,       Shanghai,            837,           1357,           2323,           1052,           5395,           1398,              6
+ Rio De Janeiro,             to,         Sydney,           1094,           1466,           2547,           1565,           5402,           1400,              6
+         Sydney,             to, Rio De Janeiro,           2547,           1565,           1094,           1466,           5402,           1400,              6
+       Shenyang,             to, Rio De Janeiro,           2345,            948,           1094,           1466,           5416,           1404,              6
+ Rio De Janeiro,             to,       Shenyang,           1094,           1466,           2345,            948,           5416,           1404,              6
+           Lima,             to,       Shenyang,            837,           1357,           2345,            948,           5420,           1405,              6
+       Shenyang,             to,           Lima,           2345,            948,            837,           1357,           5420,           1405,              6
+       New York,             to,         Manila,            864,            956,           2326,           1182,           5427,           1406,              6
+         Manila,             to,       New York,           2326,           1182,            864,            956,           5427,           1406,              6
+      Guangzhou,             to,   Buenos Aires,           2265,           1105,            988,           1575,           5442,           1410,              6
+   Buenos Aires,             to,      Guangzhou,            988,           1575,           2265,           1105,           5442,           1410,              6
+    Los Angeles,             to,         Mumbai,            526,           1023,           1970,           1147,           5446,           1411,              6
+         Mumbai,             to,    Los Angeles,           1970,           1147,            526,           1023,           5446,           1411,              6
+          Seoul,             to, Rio De Janeiro,           2372,            989,           1094,           1466,           5456,           1414,              6
+ Rio De Janeiro,             to,          Seoul,           1094,           1466,           2372,            989,           5456,           1414,              6
+       New York,             to,        Beijing,            864,            956,           2295,            966,           5476,           1419,              6
+        Beijing,             to,       New York,           2295,            966,            864,            956,           5476,           1419,              6
+   Buenos Aires,             to,          Xi'an,            988,           1575,           2250,           1021,           5512,           1428,              6
+          Xi'an,             to,   Buenos Aires,           2250,           1021,            988,           1575,           5512,           1428,              6
+        Jakarta,             to,           Lima,           2223,           1339,            837,           1357,           5544,           1436,              7
+           Lima,             to,        Jakarta,            837,           1357,           2223,           1339,           5544,           1436,              7
+          Xi'an,             to,       New York,           2250,           1021,            864,            956,           5550,           1437,              7
+       New York,             to,          Xi'an,            864,            956,           2250,           1021,           5550,           1437,              7
+       Shenyang,             to,      Sao Paulo,           2345,            948,           1062,           1480,           5555,           1438,              7
+      Sao Paulo,             to,       Shenyang,           1062,           1480,           2345,            948,           5555,           1438,              7
+    Mexico City,             to,          Dhaka,            683,           1145,           2094,           1109,           5557,           1439,              7
+          Dhaka,             to,    Mexico City,           2094,           1109,            683,           1145,           5557,           1439,              7
+    Mexico City,             to,        Kolkata,            683,           1145,           2074,           1122,           5564,           1441,              7
+        Kolkata,             to,    Mexico City,           2074,           1122,            683,           1145,           5564,           1441,              7
+   Buenos Aires,             to,         Manila,            988,           1575,           2326,           1182,           5578,           1444,              7
+         Manila,             to,   Buenos Aires,           2326,           1182,            988,           1575,           5578,           1444,              7
+      Guangzhou,             to,           Lima,           2265,           1105,            837,           1357,           5579,           1444,              7
+        Jakarta,             to,        Chicago,           2223,           1339,            757,            931,           5579,           1444,              7
+        Chicago,             to,        Jakarta,            757,            931,           2223,           1339,           5579,           1444,              7
+           Lima,             to,      Guangzhou,            837,           1357,           2265,           1105,           5579,           1444,              7
+        Karachi,             to,    Los Angeles,           1921,           1096,            526,           1023,           5587,           1446,              7
+    Los Angeles,             to,        Karachi,            526,           1023,           1921,           1096,           5587,           1446,              7
+        Beijing,             to,           Lima,           2295,            966,            837,           1357,           5591,           1447,              7
+           Lima,             to,        Beijing,            837,           1357,           2295,            966,           5591,           1447,              7
+          Seoul,             to,      Sao Paulo,           2372,            989,           1062,           1480,           5595,           1448,              7
+      Sao Paulo,             to,          Seoul,           1062,           1480,           2372,            989,           5595,           1448,              7
+      Guangzhou,             to,       New York,           2265,           1105,            864,            956,           5627,           1456,              7
+       New York,             to,      Guangzhou,            864,            956,           2265,           1105,           5627,           1456,              7
+        Chicago,             to,        Bangkok,            757,            931,           2170,           1188,           5642,           1460,              7
+        Bangkok,             to,        Chicago,           2170,           1188,            757,            931,           5642,           1460,              7
+        Jakarta,             to,       New York,           2223,           1339,            864,            956,           5647,           1461,              7
+       New York,             to,        Jakarta,            864,            956,           2223,           1339,           5647,           1461,              7
+           Lima,             to,          Xi'an,            837,           1357,           2250,           1021,           5708,           1477,              7
+          Xi'an,             to,           Lima,           2250,           1021,            837,           1357,           5708,           1477,              7
+   Buenos Aires,             to,       Shanghai,            988,           1575,           2323,           1052,           5735,           1483,              7
+       Shanghai,             to,   Buenos Aires,           2323,           1052,            988,           1575,           5735,           1483,              7
+          Tokyo,             to,   Buenos Aires,           2467,           1014,            988,           1575,           5740,           1485,              7
+   Buenos Aires,             to,          Tokyo,            988,           1575,           2467,           1014,           5740,           1485,              7
+   Buenos Aires,             to,        Beijing,            988,           1575,           2295,            966,           5767,           1491,              7
+        Beijing,             to,   Buenos Aires,           2295,            966,            988,           1575,           5767,           1491,              7
+          Tokyo,             to, Rio De Janeiro,           2467,           1014,           1094,           1466,           5781,           1495,              7
+ Rio De Janeiro,             to,          Tokyo,           1094,           1466,           2467,           1014,           5781,           1495,              7
+          Tokyo,             to,      Sao Paulo,           2467,           1014,           1062,           1480,           5883,           1520,              7
+      Sao Paulo,             to,          Tokyo,           1062,           1480,           2467,           1014,           5883,           1520,              7
+   Buenos Aires,             to,       Shenyang,            988,           1575,           2345,            948,           5979,           1544,              7
+       Shenyang,             to,   Buenos Aires,           2345,            948,            988,           1575,           5979,           1544,              7
+   Buenos Aires,             to,          Seoul,            988,           1575,           2372,            989,           6011,           1552,              7
+          Seoul,             to,   Buenos Aires,           2372,            989,            988,           1575,           6011,           1552,              7
